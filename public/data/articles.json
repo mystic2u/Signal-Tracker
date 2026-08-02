@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-08-02T08:00:00.000Z",
+  "articles": [
+    {
+      "id": "sample-1",
+      "title": "Sample: On-device AI chips start shipping in mid-range laptops",
+      "url": "https://example.com/articles/sample-1",
+      "datePublished": "2026-08-02T07:15:00.000Z",
+      "category": ["tech"],
+      "description": "Placeholder summary text. Once the scraper runs in GitHub Actions, this file is replaced with real articles pulled from your configured sources.",
+      "author": "Sample Author",
+      "imageUrl": "",
+      "source": "TechCrunch (sample)"
+    },
+    {
+      "id": "sample-2",
+      "title": "Sample: Regional grid operators trial demand-shifting tariffs",
+      "url": "https://example.com/articles/sample-2",
+      "datePublished": "2026-08-02T05:40:00.000Z",
+      "category": ["energy"],
+      "description": "Placeholder summary text for an energy-sector signal, used to preview card layout and category tagging before real data arrives.",
+      "author": "",
+      "imageUrl": "",
+      "source": "prnewswire (sample)"
+    },
+    {
+      "id": "sample-3",
+      "title": "Sample: Independent bakeries lean into fermentation as a selling point",
+      "url": "https://example.com/articles/sample-3",
+      "datePublished": "2026-08-01T18:20:00.000Z",
+      "category": ["food", "lifestyle"],
+      "description": "Placeholder summary text. This card belongs to two categories at once, showing how multi-category tagging renders.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Mashable (sample)"
+    },
+    {
+      "id": "sample-4",
+      "title": "Sample: A mid-tier telecoms brand tests a family-plan bundle",
+      "url": "https://example.com/articles/sample-4",
+      "datePublished": "2026-08-01T14:05:00.000Z",
+      "category": ["telecoms"],
+      "description": "Placeholder summary text for the telecoms category.",
+      "author": "",
+      "imageUrl": "",
+      "source": "prnewswire (sample)"
+    },
+    {
+      "id": "sample-5",
+      "title": "Sample: Capsule wardrobe brands report a slow, steady comeback",
+      "url": "https://example.com/articles/sample-5",
+      "datePublished": "2026-08-01T09:50:00.000Z",
+      "category": ["fashion"],
+      "description": "Placeholder summary text for the fashion category.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Engadget (sample)"
+    },
+    {
+      "id": "sample-6",
+      "title": "Sample: A lower league club experiments with dynamic ticket pricing",
+      "url": "https://example.com/articles/sample-6",
+      "datePublished": "2026-07-31T20:30:00.000Z",
+      "category": ["sport"],
+      "description": "Placeholder summary text for the sport category.",
+      "author": "",
+      "imageUrl": "",
+      "source": "prnewswire (sample)"
+    },
+    {
+      "id": "sample-7",
+      "title": "Sample: A city gallery pilots a pay-what-you-can evening",
+      "url": "https://example.com/articles/sample-7",
+      "datePublished": "2026-07-31T11:10:00.000Z",
+      "category": ["culture"],
+      "description": "Placeholder summary text for the culture category.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Mashable (sample)"
+    },
+    {
+      "id": "sample-8",
+      "title": "Sample: Budget wireless earbuds close the gap on noise cancelling",
+      "url": "https://example.com/articles/sample-8",
+      "datePublished": "2026-07-30T16:45:00.000Z",
+      "category": ["tech", "lifestyle"],
+      "description": "Placeholder summary text showing an older article, useful for testing the date filter and sort order.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Engadget (sample)"
+    }
+  ]
+}

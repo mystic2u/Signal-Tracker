@@ -1,0 +1,11 @@
+{
+  "customSources": [
+    {
+      "id": "example-rss",
+      "name": "Example RSS feed",
+      "type": "rss",
+      "url": "https://example.com/feed.xml",
+      "categories": ["tech"]
+    }
+  ]
+}
