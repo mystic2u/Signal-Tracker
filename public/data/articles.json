@@ -1,12 +1,417 @@
 {
-  "generatedAt": "2026-08-02T08:00:00.000Z",
+  "generatedAt": "2026-08-02T23:52:55.232Z",
   "articles": [
+    {
+      "id": "d1a28609bdf39df4",
+      "title": "Sharpen your cybersecurity skills from home with this $21 bundle — only through today",
+      "url": "https://mashable.com/tech/aug-2-the-2026-ai-security-cybersecurity-expert-bundle",
+      "datePublished": "2026-08-02T22:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the 2026 AI Security & Cybersecurity Expert Bundle for $21 today only and access six courses covering AI security, ethical hacking, CompTIA prep, and penetration testing.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/063Qa0qnmOtJd8o0OcyasSy/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ff310aa1cae66b5c",
+      "title": "The global memory shortage hits the MacBook Air",
+      "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "datePublished": "2026-08-02T21:33:59.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+      "author": "Anthony Ha",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "8f42055e53367347",
+      "title": "Sam Altman and AI’s decel debate",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "datePublished": "2026-08-02T20:54:22.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "author": "Anthony Ha",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "c1245390adebb761",
+      "title": "Is Troy actually good? The Odyssey has viewers reconsidering",
+      "url": "https://mashable.com/life/the-odyssey-troy-brad-pitt-reevaluation",
+      "datePublished": "2026-08-02T19:10:17.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Christopher Nolan’s The Odyssey has viewers revisiting Brad Pitt’s 2004 epic Troy.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/061RtgwvlTDyeD4e383gZtK/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "d7b307bd4f218ad4",
+      "title": "Xbox consoles are now much more expensive in the EU and UK",
+      "url": "https://www.engadget.com/2228621/xbox-consoles-prices-now-more-expensive-eu-uk/",
+      "datePublished": "2026-08-02T19:04:51.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The entry-level price for an Xbox now starts at 499.99€/£429.99.",
+      "author": "staff@engadget.com (Jackson Chen)",
+      "imageUrl": "https://www.engadget.com/img/gallery/xbox-consoles-are-now-much-more-expensive-in-the-eu-and-uk/l-intro-1785697082.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "a2b64dbae18bfed8",
+      "title": "How long can you expect a PlayStation 5 to last?",
+      "url": "https://www.engadget.com/2226178/how-long-expect-playstation-5-last-lifespan-support/",
+      "datePublished": "2026-08-02T18:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "And will Sony continue to support the PS5 once the PS6 is released?",
+      "author": "staff@engadget.com (Matt Tate)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-long-can-you-expect-a-playstation-5-to-last/l-intro-1785154905.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "508c3936a1fb9d86",
+      "title": "Snapchat is the latest platform to turn against AI slop",
+      "url": "https://mashable.com/life/snapchat-ai-slop-spotlight-videos",
+      "datePublished": "2026-08-02T17:42:58.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Snapchat will stop recommending fully AI-generated Spotlight videos as more platforms crack down on low-quality AI content.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02ofMiTg0ZmkfqrfIySZnsY/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "a59edffffe781d01",
+      "title": "Here's where you want to be to see the 2026 solar eclipse",
+      "url": "https://www.engadget.com/2226181/2026-solar-eclipse-what-part-of-united-states-can-see/",
+      "datePublished": "2026-08-02T17:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "If you want the best view of the 2026 solar eclipse, you'll need to travel to Spain or Iceland.",
+      "author": "staff@engadget.com (Deven McClure)",
+      "imageUrl": "https://www.engadget.com/img/gallery/heres-where-you-want-to-be-to-see-the-2026-solar-eclipse/l-intro-1785248566.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "20946fab62b106dc",
+      "title": "Is Myspace coming back? Owners confirm relaunch plans",
+      "url": "https://mashable.com/life/myspace-comeback-owners-relaunch-plans",
+      "datePublished": "2026-08-02T17:26:42.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Myspace owners Chris and Tim Vanderhook plan to relaunch the platform, but no launch date or product details are available.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01ie8XzTAMY43iayKFOs7Gz/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "7c7bf23b7213937a",
+      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+      "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+      "datePublished": "2026-08-02T17:05:07.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+      "author": "Anthony Ha",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "f1b6a29d5f588893",
+      "title": "How to sideload Android APKs on your Chromebook",
+      "url": "https://www.engadget.com/2226177/how-to-sideload-android-apks-chromebook/",
+      "datePublished": "2026-08-02T16:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Chromebooks aren't limited to only apps you can get on the Play Store.",
+      "author": "staff@engadget.com (Kris Holt)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-sideload-android-apks-on-your-chromebook/l-intro-1785164755.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "bba0bb75e235947b",
+      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+      "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+      "datePublished": "2026-08-02T16:05:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "author": "Kirsten Korosec",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "f75b23f67e964089",
+      "title": "Which USB adapters should you actually keep in 2026?",
+      "url": "https://www.engadget.com/2225779/which-usb-adapter-to-keep/",
+      "datePublished": "2026-08-02T15:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As USB-C becomes the standard across most devices, it's time to go through that drawer full of USB adapters and toss those you no longer need.",
+      "author": "staff@engadget.com (Ben Stegner)",
+      "imageUrl": "https://www.engadget.com/img/gallery/which-usb-adapters-should-you-actually-keep-in-2026/l-intro-1785299948.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "b6b82c6b574e5458",
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "datePublished": "2026-08-02T15:23:19.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+      "author": "Sarah Perez",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "904e114c0880a29b",
+      "title": "Hank Green apologizes for relying too heavily on ChatGPT",
+      "url": "https://mashable.com/life/hank-green-chatgpt-ai-apology",
+      "datePublished": "2026-08-02T14:56:07.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hank Green apologized for relying too heavily on ChatGPT research and said he may pause his YouTube channel and two online games.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00eEDdt0zGtNJm3JWWzfeL0/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "0898f21762497979",
+      "title": "Common problems with Bluetooth speakers and how to fix them",
+      "url": "https://www.engadget.com/2225770/bluetooth-speakers-common-problems-fixes/",
+      "datePublished": "2026-08-02T14:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Struggling with audio dropout or finnicky pairing? Ensure these common Bluetooth speaker problems aren't getting in the way of your auditory delights.",
+      "author": "staff@engadget.com (Ben Stegner)",
+      "imageUrl": "https://www.engadget.com/img/gallery/common-problems-with-bluetooth-speakers-and-how-to-fix-them/l-intro-1785297360.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "dcf2c34fec3c8064",
+      "title": "NYT Pips hints, answers for August 2, 2026",
+      "url": "https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-august-2-2026",
+      "datePublished": "2026-08-02T14:10:54.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/063hshpzh1pQUxbo2VwRZCQ/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ccd526b1ebf55169",
+      "title": "NYT Connections Sports Edition today: Hints and answers for August 2, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-sports-edition-hint-answer-today-august-2-2026",
+      "datePublished": "2026-08-02T13:41:08.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00loFj1e6EMWz16aAYCv5eE/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "6266a33af39f73a5",
+      "title": "Minnesotas nudification ban takes effect after judge rejects xAIs bid to pause it",
+      "url": "https://mashable.com/tech/judge-rejects-xai-request-to-pause-nudification-ban",
+      "datePublished": "2026-08-02T13:33:25.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Minnesota's nudification law took effect Aug. 1 after a judge denied xAI's bid to block it; injunction hearing set for Aug. 19.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01KLyiz4WcLZCmjgVwtJHXU/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "6319c80b49a9efd0",
+      "title": "Can using your phone while charging affect its battery life?",
+      "url": "https://www.engadget.com/2225319/how-using-phone-while-charging-affects-battery-life/",
+      "datePublished": "2026-08-02T13:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Using your phone while it's plugged in changes the way it charge. Here are some common myths (and truths) about charging smartphones and tablets.",
+      "author": "staff@engadget.com (Christine Persaud)",
+      "imageUrl": "https://www.engadget.com/img/gallery/can-using-your-phone-while-charging-affect-its-battery-life/l-intro-1785261821.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "65a9446672c277c7",
+      "title": "Survey says: Here are the Apple products readers still expect this year",
+      "url": "https://mashable.com/tech/mashable-big-guessing-game-apple-round-2-answers",
+      "datePublished": "2026-08-02T10:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The latest results of Mashable's Big Guessing Game, Apple edition, are in. See what our readers still expect Apple to release in 2026.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07k3HFherIqvht2FQqVg8iD/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "177d139661448b2a",
+      "title": "I tested the top MacBook alternatives: See which Windows PCs actually beat Apple",
+      "url": "https://mashable.com/tech/best-macbook-alternatives-tested",
+      "datePublished": "2026-08-02T09:30:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Our top tested MacBook alternatives for 2026 include the Asus Zenbook A14, the Dell XPS 14, and the HP OmniBook Ultra 14.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/roundups/07i4ylOYY93X1vTLff34HqX/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "682e4688091f700f",
+      "title": "RAMageddon is making it harder to find the best Windows laptops. These 10 are actually worth it.",
+      "url": "https://mashable.com/tech/best-windows-laptops-tested-2026",
+      "datePublished": "2026-08-02T09:00:52.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "We tested nearly 50 models before deciding the 2026 Asus Zenbook A14 is the best Windows laptop for most people. See what other PCs made the cut.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/roundups/00rM9b2GawiZQibE3sgXkCQ/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "8c2ac14efbc0a410",
+      "title": "Pre-order the Samsung Galaxy Z Flip 8, walk away with an extra $200 — how to claim this free offer",
+      "url": "https://mashable.com/tech/samsung-galaxy-z-flip-8-amazon-gift-card-deal",
+      "datePublished": "2026-08-02T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the Samsung Galaxy Z Flip 8 (256GB, unlocked) for $1,199.99 at Amazon and score a free $200 Amazon gift card with it.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03nZ6hLP0RRdFzyYDwbbgtJ/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "a38f237d6f44449e",
+      "title": "Owalas Back-to-School Sale is live — 20% off bottles, bags, accessories, and more",
+      "url": "https://mashable.com/life/owala-back-to-school-sale",
+      "datePublished": "2026-08-02T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Owala's Back-to-School Sale runs Aug. 2-8, with 20% off sitewide on bottles, bags, and accessories.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04ZZ8Vu5pKWZizusHfrwbUi/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "7c33f358a80315c4",
+      "title": "Final days to lock in your favorite Microsoft Office apps for life for just $33",
+      "url": "https://mashable.com/tech/aug-2-microsoft-office-professional-2021-for-windows-lifetime-license",
+      "datePublished": "2026-08-02T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get Microsoft Office Professional 2021 for Windows for just $32.97 through Aug. 9 with a lifetime license.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07vUTZRfRVmiVEGN8l5y45f/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "56c64e6113fd3138",
+      "title": "One dashboard, 20+ AI models — get ChatGPT, Claude, Gemini, and more for $79",
+      "url": "https://mashable.com/tech/aug-2-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
+      "datePublished": "2026-08-02T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get ChatPlayground AI Lifetime (Unlimited Plan) for $79 and compare ChatGPT, Claude, Gemini, DeepSeek, and 20+ AI models from one workspace.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04h5d80xLDj0wcOkYveICqL/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "90b3437e411187a8",
+      "title": "The best Dyson vacuums actually make vacuuming fun: See my favorites for 2026",
+      "url": "https://mashable.com/roundup/best-dyson-vacuums",
+      "datePublished": "2026-08-02T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "After a ton of testing (and cleaning), I found the best Dyson vacuum — for pet hair, carpets, hard floors, or all of the above.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/roundups/05EOHx957oDqMA5a6uw7l5i/hero-image.jpg",
+      "source": "Mashable"
+    },
     {
       "id": "sample-1",
       "title": "Sample: On-device AI chips start shipping in mid-range laptops",
       "url": "https://example.com/articles/sample-1",
       "datePublished": "2026-08-02T07:15:00.000Z",
-      "category": ["tech"],
+      "category": [
+        "tech"
+      ],
       "description": "Placeholder summary text. Once the scraper runs in GitHub Actions, this file is replaced with real articles pulled from your configured sources.",
       "author": "Sample Author",
       "imageUrl": "",
@@ -17,73 +422,1726 @@
       "title": "Sample: Regional grid operators trial demand-shifting tariffs",
       "url": "https://example.com/articles/sample-2",
       "datePublished": "2026-08-02T05:40:00.000Z",
-      "category": ["energy"],
+      "category": [
+        "energy"
+      ],
       "description": "Placeholder summary text for an energy-sector signal, used to preview card layout and category tagging before real data arrives.",
       "author": "",
       "imageUrl": "",
       "source": "prnewswire (sample)"
     },
     {
+      "id": "40c279e4197252ee",
+      "title": "Moon phase today: What the Moon will look like on August 2",
+      "url": "https://mashable.com/science/moon-phase-today-aug-2-2026",
+      "datePublished": "2026-08-02T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "See the Moon phase expected for August 2, 2026 as well as when the next Full Moon is expected.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00Dq8J9IgXeb8SPhmKlbvQz/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "7a4b4f13a0facadb",
+      "title": "NYT Connections hints today: Clues, answers for August 2, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-august-2-2026",
+      "datePublished": "2026-08-02T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07uAgi9yRFePEHb6yh5u1Ib/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "3bd8c9c5a9d938b6",
+      "title": "NYT Strands hints, answers for August 2, 2026",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-august-2-2026",
+      "datePublished": "2026-08-02T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00iqxbk0AFQLh6zimZaQkV0/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ad8b4e7894768337",
+      "title": "Wordle today: Answer, hints for August 2, 2026",
+      "url": "https://mashable.com/entertainment/wordle-today-answer-august-2-2026",
+      "datePublished": "2026-08-02T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Here's the answer for \"Wordle\" #1870 on August 2 as well as a few hints, tips, and clues to help you solve it yourself.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05PPjog7wY5O32WqcYdfCYM/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "c4bc6659cb4be68f",
+      "title": "Hurdle hints and answers for August 2, 2026",
+      "url": "https://mashable.com/entertainment/hurdle-hints-answers-august-2-2026",
+      "datePublished": "2026-08-02T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hints and answers to today's Hurdle all in one place.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07lIkNtpfHaNtlLnthpGt9x/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "6c03ecba64dbc4bd",
+      "title": "The Samsung Galaxy Watch Ultra 2 comes with a free $100 gift card this weekend",
+      "url": "https://mashable.com/tech/samsung-galaxy-watch-ultra-2-amazon-gift-card-deal",
+      "datePublished": "2026-08-01T22:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the Samsung Galaxy Watch Ultra 2 bundled with a $100 Amazon gift card for $699.99, down from $799.99, at Amazon. That's a 13% discount.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03zLL2UhI2dE4ii9QNAZyPh/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "94b73a1af7d5477d",
+      "title": "Learn American Sign Language for just $10 with this 13-course bundle",
+      "url": "https://mashable.com/life/aug-1-the-all-in-one-american-sign-language-bundle",
+      "datePublished": "2026-08-01T22:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Become a sign language expert with help from The All-in-One American Sign Language Bundle, on sale now for just $10.49.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05MGcLOfcmqq4WM4zzYrUMe/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "e9f510788f4fa3a6",
+      "title": "Inside the London hacker house taking a stand against founder burnout",
+      "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "datePublished": "2026-08-01T21:14:48.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "How one founder house is betting work-life balance can beat burnout .",
+      "author": "Dominic-Madori Davis",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "e1bf53682cbd5cca",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "datePublished": "2026-08-01T20:26:04.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "author": "Anthony Ha",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "271ca55a8a1ed181",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "datePublished": "2026-08-01T19:45:45.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "author": "Anthony Ha",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "e08dfc09412a2af1",
+      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+      "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+      "datePublished": "2026-08-01T18:47:27.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
+      "author": "Jagmeet Singh",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "98153025fccc5f2e",
+      "title": "What Is USB Tethering And How Do You Enable It For Mobile Hotspot?",
+      "url": "https://www.engadget.com/2225903/what-is-usb-tethering-how-enable-for-mobile-hotspot/",
+      "datePublished": "2026-08-01T18:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "There are times when a physical connection will perform better than a Wi-Fi hotspot. Here's when you want to use USB tethering, and how.",
+      "author": "staff@engadget.com (Will Shanklin)",
+      "imageUrl": "https://www.engadget.com/img/gallery/what-is-usb-tethering-and-how-do-you-enable-it-for-mobile-hotspot/l-intro-1785327565.jpg",
+      "source": "Engadget"
+    },
+    {
       "id": "sample-3",
       "title": "Sample: Independent bakeries lean into fermentation as a selling point",
       "url": "https://example.com/articles/sample-3",
       "datePublished": "2026-08-01T18:20:00.000Z",
-      "category": ["food", "lifestyle"],
+      "category": [
+        "food",
+        "lifestyle"
+      ],
       "description": "Placeholder summary text. This card belongs to two categories at once, showing how multi-category tagging renders.",
       "author": "",
       "imageUrl": "",
       "source": "Mashable (sample)"
     },
     {
+      "id": "d2e9423defb211c0",
+      "title": "Meta, TikTok, Snap and Google face wrongful death lawsuit from four US families",
+      "url": "https://www.engadget.com/2228490/meta-tiktok-snap-google-wrongful-death-lawsuit-us/",
+      "datePublished": "2026-08-01T18:14:29.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The Social Media Victims Law Center accused the companies of creating addictive and dangerous platforms.",
+      "author": "staff@engadget.com (Jackson Chen)",
+      "imageUrl": "https://www.engadget.com/img/gallery/meta-tiktok-snap-and-google-face-wrongful-death-lawsuit-from-four-us-families/l-intro-1785607361.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "f0c081dc811af67c",
+      "title": "How to create and delete stickers on your iPhone",
+      "url": "https://www.engadget.com/2225199/how-to-create-delete-stickers-on-iphone/",
+      "datePublished": "2026-08-01T17:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "iPhone stickers are a clever way to make conversations more personal and fun, but a good sticker library requires creating new and deleting old, overused ones.",
+      "author": "staff@engadget.com (Ben Stegner)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-create-and-delete-stickers-on-your-iphone/l-intro-1785255825.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "53ed436cb4425014",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "datePublished": "2026-08-01T17:07:34.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "author": "Anthony Ha",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "aa4aab3ff6a5589b",
+      "title": "Sam Altman suggests parents generate AI podcasts about their kids",
+      "url": "https://mashable.com/tech/sam-altman-suggests-parents-generate-ai-podcasts-about-kids",
+      "datePublished": "2026-08-01T16:53:34.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "On X, Sam Altman said a \"cool use case\" for ChatGPT was for parents to generate podcasts' about their children's lives.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00EHMqMixIQfrYSZREmX3YD/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "fe5c34fe69cdb728",
+      "title": "Ayaneo reveals its Game Boy Advance remake called the Konkr Pocket Advance",
+      "url": "https://www.engadget.com/2228464/ayaneo-game-boy-advance-remake-konkr-pocket-advance/",
+      "datePublished": "2026-08-01T16:40:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The horizontal handheld will be released in navy and orange colorways.",
+      "author": "staff@engadget.com (Jackson Chen)",
+      "imageUrl": "https://www.engadget.com/img/gallery/ayaneo-reveals-its-game-boy-advance-remake-called-the-konkr-pocket-advance/l-intro-1785600976.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "e5dbab3d6af1d0b0",
+      "title": "Apple CarPlay isn't working in your car? Here's what to check first",
+      "url": "https://www.engadget.com/2225155/why-carplay-not-working-in-car-what-to-check-first/",
+      "datePublished": "2026-08-01T16:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple's CarPlay is a convenient way to listen to music or safely use navigation, but it can be a finnicky system that requires the occasional troubleshooting.",
+      "author": "staff@engadget.com (Ben Stegner)",
+      "imageUrl": "https://www.engadget.com/img/gallery/apple-carplay-isnt-working-in-your-car-heres-what-to-check-first/l-intro-1785253827.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "e529c7879a4af84c",
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "datePublished": "2026-08-01T15:58:17.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "author": "Lauren Forristal",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "f119e93dc6f9c901",
+      "title": "Judge refuses xAI's request to stop a Minnesota law banning 'nudify' apps",
+      "url": "https://www.engadget.com/2228460/judge-refuses-xai-request-to-stop-minnesota-law-banning-nudify-apps/",
+      "datePublished": "2026-08-01T15:56:53.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "xAI filed a lawsuit a few days ago to prevent Minnesota's law banning 'nudify' apps from taking effect.",
+      "author": "staff@engadget.com (Mariella Moon)",
+      "imageUrl": "https://www.engadget.com/img/gallery/judge-refuses-xais-request-to-stop-a-minnesota-law-banning-nudify-apps/l-intro-1785599591.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "7c25f8df5b46856f",
+      "title": "Honda has a new partner for the advancement of solid-state battery technology",
+      "url": "https://www.engadget.com/2225030/honda-solid-state-battery-technology-new-partner-quantumscape/",
+      "datePublished": "2026-08-01T15:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The automaker is gearing up to make some big changes to its EV line in the near future. Here's what to expect.",
+      "author": "staff@engadget.com (Alec Hively)",
+      "imageUrl": "https://www.engadget.com/img/gallery/honda-has-a-new-partner-for-the-advancement-of-solid-state-battery-technology/l-intro-1785248776.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "f08d4253446f39a5",
+      "title": "NYT Pips hints, answers for August 1, 2026",
+      "url": "https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-august-1-2026",
+      "datePublished": "2026-08-01T15:07:28.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00btskDz0QjIumc5Xkb1fqu/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "106ad409fb8d66cf",
+      "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+      "datePublished": "2026-08-01T15:05:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.",
+      "author": "Kirsten Korosec",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "0784493c89640c94",
+      "title": "Google rolls back AI Google Earth feature a day after launch",
+      "url": "https://mashable.com/tech/google-rolls-back-ai-google-earth-feature",
+      "datePublished": "2026-08-01T14:48:47.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Google rolls back Google Earth Nano Banana 2 addition one day after launch.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02DmieNNAPDVAFXqtYxyXbY/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "701fadc7ff145cca",
+      "title": "How To Safely Recycle Your Old USB Cables",
+      "url": "https://www.engadget.com/2224957/how-to-recycle-old-usb-cables/",
+      "datePublished": "2026-08-01T14:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "If you've got a drawer or box full of old cables, here are some things you can do to thin them out. You don't need that many.",
+      "author": "staff@engadget.com (Christine Persaud)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-safely-recycle-your-old-usb-cables/l-intro-1785243187.jpg",
+      "source": "Engadget"
+    },
+    {
       "id": "sample-4",
       "title": "Sample: A mid-tier telecoms brand tests a family-plan bundle",
       "url": "https://example.com/articles/sample-4",
       "datePublished": "2026-08-01T14:05:00.000Z",
-      "category": ["telecoms"],
+      "category": [
+        "telecoms"
+      ],
       "description": "Placeholder summary text for the telecoms category.",
       "author": "",
       "imageUrl": "",
       "source": "prnewswire (sample)"
     },
     {
+      "id": "831cbc3e4634d7a9",
+      "title": "Apps that help you break free from doomscrolling and get active",
+      "url": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+      "datePublished": "2026-08-01T14:00:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
+      "author": "Lauren Forristal",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "f61e12f620cb21aa",
+      "title": "What is a silicon carbon battery and is it the answer to smartphone battery life issues?",
+      "url": "https://www.engadget.com/2227986/silicon-carbon-battery-in-smartphone-explained/",
+      "datePublished": "2026-08-01T14:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "A number of major Chinese smartphone makers have adopted silicon carbon batteries in their handsets, and now Samsung has embraced it in the new Fold lineup.",
+      "author": "staff@engadget.com (Daniel Cooper)",
+      "imageUrl": "https://www.engadget.com/img/gallery/whats-the-deal-with-silicon-carbon-batteries/l-intro-1785510752.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "9453ad102581714a",
+      "title": "New York sues Kalshi, claiming its unlicensed gambling",
+      "url": "https://mashable.com/tech/new-york-sues-kalshi-claims-its-unlicensed-gambling",
+      "datePublished": "2026-08-01T13:53:15.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The state of New York filed a lawsuit against prediction market Kalshi on Friday.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04TWkoISi91uzYy1veEQlPt/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "638d7fa6ec535396",
+      "title": "What’s the best handheld mini fan?",
+      "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
+      "datePublished": "2026-08-01T13:36:54.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
+      "author": "Amanda Silberling",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "0548e550d7c72d73",
+      "title": "How long is a new MacBook actually supposed to last?",
+      "url": "https://www.engadget.com/2224232/how-long-new-macbook-last-lifespan/",
+      "datePublished": "2026-08-01T13:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hardware obsoletion or ended support are significant considerations when buying a new laptop, so just how long can you expect a new MacBook to last?",
+      "author": "staff@engadget.com (Ben Stegner)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-long-is-a-new-macbook-actually-supposed-to-last/l-intro-1785171511.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "7dd8821d89d0ca31",
+      "title": "Engadget review recap: Samsung Galaxy Z Fold 8, Meta Glasses and more",
+      "url": "https://www.engadget.com/2227941/engadget-review-recap-z-fold-8-meta-glasses/",
+      "datePublished": "2026-08-01T13:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "A roundup of recent reviews published by Engadget.",
+      "author": "staff@engadget.com (Billy Steele)",
+      "imageUrl": "https://www.engadget.com/img/gallery/engadget-review-recap-samsung-galaxy-z-fold-8-meta-glasses-and-more/l-intro-1785513386.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "1a3867c903e6adec",
+      "title": "Cyberattacks hit water facilities in seven states across the US",
+      "url": "https://www.engadget.com/2228441/cyberattacks-water-facilities-seven-states-across-the-us/",
+      "datePublished": "2026-08-01T11:41:26.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The FBI has issued a warning after water facilities from seven states reported that they were hacked.",
+      "author": "staff@engadget.com (Mariella Moon)",
+      "imageUrl": "https://www.engadget.com/img/gallery/cyberattacks-hit-water-facilities-in-seven-states-across-the-us/l-intro-1785584172.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "c99ed55a24ee9e53",
+      "title": "Truck chaos, climbing with dual-mouse controls and other new indie games worth checking out",
+      "url": "https://www.engadget.com/2228299/truck-chaos-climbinb-with-dual-mouse-controls-and-other-new-indie-games-worth-checking-out/",
+      "datePublished": "2026-08-01T11:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Here's our roundup of new indie games you can try now, as well as ones to look forward to in the weeks to come.",
+      "author": "staff@engadget.com (Kris Holt)",
+      "imageUrl": "https://www.engadget.com/img/gallery/truck-chaos-climbing-with-dual-mouse-controls-and-other-new-indie-games-worth-checking-out/l-intro-1785532009.jpg",
+      "source": "Engadget"
+    },
+    {
       "id": "sample-5",
       "title": "Sample: Capsule wardrobe brands report a slow, steady comeback",
       "url": "https://example.com/articles/sample-5",
       "datePublished": "2026-08-01T09:50:00.000Z",
-      "category": ["fashion"],
+      "category": [
+        "fashion"
+      ],
       "description": "Placeholder summary text for the fashion category.",
       "author": "",
       "imageUrl": "",
       "source": "Engadget (sample)"
     },
     {
+      "id": "120c0042bf1dddaf",
+      "title": "Google Pixel 11: Every rumor, leak, and confirmed fact ahead of Made By Google",
+      "url": "https://mashable.com/tech/google-pixel-11-everything-we-know",
+      "datePublished": "2026-08-01T09:46:15.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Google is all set to announce some new flagship phones soon. Here's what you need to know ahead of time.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/049MVbZZjnF8ZvepJCLSTHw/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "7ee20c4f401e075b",
+      "title": "Google Pixel 11 Pro: Everything we know before the official Aug. 12 reveal",
+      "url": "https://mashable.com/tech/google-pixel-11-pro-everything-we-know-aug-12-reveal",
+      "datePublished": "2026-08-01T09:45:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Google is all set to launch some new Pixel phones very soon. What do we know about the more expensive model so far?",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/0136fjojg7mg6ItzadW4vuD/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "0cb51c71bfc4e127",
+      "title": "Review: The unbeatable M5 MacBook Air might be too powerful for its own good",
+      "url": "https://mashable.com/review/macbook-air-m5-2026-tested",
+      "datePublished": "2026-08-01T09:30:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The M5 MacBook Air is blazing fast for an Air, which is its biggest strength and only real flaw. Let us explain.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/reviews/079z9h9olipgwHDMewBIzBQ/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "4383e2b0c1813641",
+      "title": "I put the Camp Snap 2 to the ultimate test: Capturing my honeymoon",
+      "url": "https://mashable.com/tech/camp-snap-2-digital-camera-review",
+      "datePublished": "2026-08-01T09:05:06.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "I tried the Camp Snap 2 on my honeymoon and love its nostalgic-looking photos.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/reviews/01Hnn4ChidEyCVavyC5NOyv/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "0061906808de6cca",
+      "title": "The best Kindle and e-reader accessories for your coziest reading nook yet",
+      "url": "https://mashable.com/article/best-kindle-e-reader-accessories",
+      "datePublished": "2026-08-01T09:03:02.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Did you just get a Kindle, or are you looking to upgrade your reading setup? These are the best Kindle accessories for the ultimate e-reader experience.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04caGO80VsNrMn2fKrO73L7/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "a1d68856f07c7075",
+      "title": "Ive read hundreds of free Kindle books with Libby — heres how",
+      "url": "https://mashable.com/article/libby-app-how-to-read-free-kindle-e-books",
+      "datePublished": "2026-08-01T09:00:53.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The Libby app lets you borrow digital library books with your library card. Here's a guide on how to read for free.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00UJdEvDb3q8icOTITk9Ryy/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "2fa38a42eea2b3a5",
+      "title": "MacBook Neo review: Is this budget laptop still worth it after a price increase?",
+      "url": "https://mashable.com/review/apple-macbook-neo-budget-laptop",
+      "datePublished": "2026-08-01T09:00:09.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "We put the colorful MacBook Neo through serious stress tests. After months of testing (and a price hike), we've updated our review.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/reviews/07xvQNDJ8dPTyuUxFvaYN8w/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "23b1419c79578d8b",
+      "title": "How to watch NFL preseason games: Streaming guide",
+      "url": "https://mashable.com/entertainment/how-to-watch-nfl-preseason-2026",
+      "datePublished": "2026-08-01T09:00:04.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Find out how to watch NFL preseason games, including which streaming services you'll need and the best deals.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02RpGWql2V0OjUXW9JSAf0Z/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "f9e0be9b629c2b51",
+      "title": "House of the Dragons Fabien Frankel reveals a detail from Criston Coles death that was years in the making",
+      "url": "https://mashable.com/entertainment/house-of-the-dragon-criston-death-fabien-frankel-interview",
+      "datePublished": "2026-08-01T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Fabien Frankel breaks down Criston Cole's final fight on \"House of the Dragon,\" including the use of a very significant dagger.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/05EsXB4YDJDX1RjjlZtQLde/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "2557029b1593564c",
+      "title": "Stop trading blind: The 5 most valuable MTG cards from every current Standard set",
+      "url": "https://mashable.com/life/most-valuable-magic-the-gathering-cards",
+      "datePublished": "2026-08-01T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "See the five most valuable MTG cards from every Standard expansion, based on current TCGplayer market prices",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01RAvGOXLaFUT0kBdM6w8DV/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "aa3acdbbe70b383f",
+      "title": "T-Mobile is giving away the Apple iPhone 17 for free — claim yours this weekend",
+      "url": "https://mashable.com/tech/aug-1-free-apple-iphone-deal",
+      "datePublished": "2026-08-01T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to get free iPhone. Get the Apple iPhone 17 for free when you sign up for T-Mobile.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03zEk42rp8JYydrMw5BWgIV/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "c6f5d52ed8b71485",
+      "title": "Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card",
+      "url": "https://mashable.com/tech/samsung-galaxy-watch-9-amazon-gift-card-deal",
+      "datePublished": "2026-08-01T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Pre-order the Samsung Galaxy Watch 9 bundled with a $50 Amazon gift card for $379.99, down from $429.99, at Amazon. That's a 12% discount ahead of its Aug. 7 release.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07ISdJhP2eF1l0uSJeWe2GB/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "3c7e4be6aa0b5a13",
+      "title": "Pay once, use it forever — MS Office 2024 Pro Plus is just $55 for a limited time",
+      "url": "https://mashable.com/tech/aug-1-microsoft-office-2024-professional-plus",
+      "datePublished": "2026-08-01T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get Microsoft Office 2024 Professional Plus for Windows for $54.99 with a lifetime license for one device.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03YtrnCvojVd3ZDRXT5Iq4c/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "e1acbdf89495352c",
+      "title": "Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 — only today",
+      "url": "https://mashable.com/tech/aug-1-1minai-advanced-business-plan-lifetime-subscription",
+      "datePublished": "2026-08-01T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get a 1min.AI Advanced Business Plan Lifetime Subscription for $69.97 through Aug. 9 and access leading AI models in one platform.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07fjLqHalCmDOKWHos9a4fH/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "9bc0fbf2c086af1b",
+      "title": "The best hookup apps for 2026: I swiped until my thumb hurt",
+      "url": "https://mashable.com/roundup/best-hookup-apps-2026",
+      "datePublished": "2026-08-01T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Are you single? We tested the best hookup apps to help you find a summer fling, situationship, or whatever else you wanna call it.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/roundups/03sRx1yuBDqh99mwiCwW8zu/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "6bc62e60515e5e11",
+      "title": "Theres still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card",
+      "url": "https://mashable.com/tech/samsung-galaxy-z-fold-8-amazon-gift-card-deal",
+      "datePublished": "2026-08-01T08:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the Samsung Galaxy Z Fold 8 (256GB, unlocked) for $1,899.99 at Amazon and score a free $350 Amazon gift card with it.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00mWJ0fhXVeQiaWF54LH9n7/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "4d772243f2791ebb",
+      "title": "Moon phase today: What the Moon will look like on August 1",
+      "url": "https://mashable.com/science/moon-phase-today-aug-1-2026",
+      "datePublished": "2026-08-01T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "See the Moon phase expected for August 1, 2026 as well as when the next Full Moon is expected.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07gsvPI6PULPgifBdQ7c9WM/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "e89e371394d94f2a",
+      "title": "NYT Connections hints today: Clues, answers for August 1, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-august-1-2026",
+      "datePublished": "2026-08-01T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03P14QmWHGNzB2m48xtltQ6/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "4f8bd010eb464f56",
+      "title": "NYT Strands hints, answers for August 1, 2026",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-august-1-2026",
+      "datePublished": "2026-08-01T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02H2TkaZefKY7YErDuVV5GH/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "8a6a75d53ec1e751",
+      "title": "Wordle today: Answer, hints for August 1, 2026",
+      "url": "https://mashable.com/entertainment/wordle-today-answer-august-1-2026",
+      "datePublished": "2026-08-01T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Here's the answer for \"Wordle\" #1869 on August 1 as well as a few hints, tips, and clues to help you solve it yourself.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/069rI91yEKF1OdMo0G8Ca9E/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "5bc6f8e8acffc6c9",
+      "title": "Hurdle hints and answers for August 1, 2026",
+      "url": "https://mashable.com/entertainment/hurdle-hints-answers-august-1-2026",
+      "datePublished": "2026-08-01T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hints and answers to today's Hurdle all in one place.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07vcHbB01ANp8qBvJVXjb0U/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ec77bd47dbb96df8",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "datePublished": "2026-07-31T22:47:26.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+      "author": "Lucas Ropek",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "ee619c0984222acd",
+      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+      "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+      "datePublished": "2026-07-31T22:00:08.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
+      "author": "Sean O'Kane",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "5131ecbcb95226a9",
+      "title": "Silicon Valley loves young founders. Until it doesn’t.",
+      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "datePublished": "2026-07-31T22:00:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
+      "author": "Dominic-Madori Davis",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "dbcfa8249de91985",
+      "title": "Want to learn coding? Do it for just $38 with this all-in-one bundle.",
+      "url": "https://mashable.com/tech/july-31-microsoft-visual-studio-professional-2026-the-premium",
+      "datePublished": "2026-07-31T22:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Take your coding skills to the next level with the Microsoft Visual Studio Professional 2026 and The Premium Learn to Code Certification Bundle for just $37.97.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01sSXBTMTpJkjGP3BG2fZD3/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "9d803b4958508a6d",
+      "title": "India is starting to pay for apps, not just download them",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "datePublished": "2026-07-31T21:07:45.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "India's app market generated a record $345 million in Q2.",
+      "author": "Jagmeet Singh",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
       "id": "sample-6",
       "title": "Sample: A lower league club experiments with dynamic ticket pricing",
       "url": "https://example.com/articles/sample-6",
       "datePublished": "2026-07-31T20:30:00.000Z",
-      "category": ["sport"],
+      "category": [
+        "sport"
+      ],
       "description": "Placeholder summary text for the sport category.",
       "author": "",
       "imageUrl": "",
       "source": "prnewswire (sample)"
     },
     {
+      "id": "6bc35786018118f3",
+      "title": "What is a \"tradwife\"? Nara Smith rejects the viral label.",
+      "url": "https://mashable.com/life/nara-smith-tradwife-meaning-explained",
+      "datePublished": "2026-07-31T20:27:03.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Nara Smith rejected the tradwife label on 'Call Her Daddy.' Here’s what the term means and why viewers still debate it.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03PH0WI3pK2pevKcCapFBfk/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "3a357c7e282596c8",
+      "title": "Reminder: Dont use Google Maps for hiking",
+      "url": "https://mashable.com/life/google-maps-hiking-directions",
+      "datePublished": "2026-07-31T20:21:13.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "If you're planning a long hike, your phone map may not be your friend. Here's what you can use instead.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01KgPlEnhfuHpS8pW8Ciole/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "a1264668b4697f32",
+      "title": "Regularly $599.99, this Samsung Odyssey OLED G6 monitor is $399.99 at Amazon if you act quickly",
+      "url": "https://mashable.com/tech/july-31-samsing-odyssey-oled-g6-deal",
+      "datePublished": "2026-07-31T20:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of July 31, shop the Samsung 27-inch Odyssey OLED G6 gaming monitor for just $399.99 and save $200.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03jIJxryDJz0EdR5jXQrzde/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "6422ae0f316dfcb1",
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "datePublished": "2026-07-31T19:47:28.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "author": "Lucas Ropek",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "d4487a10896f8027",
+      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+      "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+      "datePublished": "2026-07-31T19:39:51.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "The new funding brings Index's total available investing capital to $3.5 billion.",
+      "author": "Marina Temkin",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "0169efbdd5e00740",
+      "title": "A K-pop group launched a lemon 30 kilometers above Earth. Heres how they did it.",
+      "url": "https://mashable.com/life/hearts2hearts-lemon-tangy-launch-into-space-behind-the-scenes",
+      "datePublished": "2026-07-31T18:55:40.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hearts2Hearts' \"Lemon Tang\" rollout culminated in a delightfully over-the-top comeback campaign that launched a lemon into near space.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00689V5dWIKu1tOG3TMY6DW/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "c727df48e0d5f157",
+      "title": "You might get credit on T-Mobile bill after the big outage",
+      "url": "https://mashable.com/tech/t-mobile-outage-2026-credit-customer-service",
+      "datePublished": "2026-07-31T16:01:49.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Some T-Mobile users have gotten credits on their next bill after complaining to customer service about the big outage.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04acU2znOkwjdjyIN3BM2Ic/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "c72392d26bdc0e3a",
+      "title": "HOVERAir’s new pocket camera grows wings and turns into a drone",
+      "url": "https://mashable.com/tech/hover-air-versa-pocket-camera-launch-details",
+      "datePublished": "2026-07-31T15:59:22.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "HOVERAir just announced the VERSA, a pocket-sized handheld gimbal camera with snap-on propellers that turn it into a self-flying drone.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03NqtsMXs8QYWVViPv5olSY/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "574cc0cf90361d49",
+      "title": "The top-tier DJI Mavic 4 Pro drone is over $400 off this weekend",
+      "url": "https://mashable.com/tech/july-31-dji-mavic-4-pro-drone-bundle-deal",
+      "datePublished": "2026-07-31T15:03:37.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The DJI Mavic 4 Pro Fly More drone bundle, with extra batteries and accessories, is over $400 off this weekend at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/069Ty7AwlpaWvkAIpYAw6cI/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "39af2baeb1853bb0",
+      "title": "Beat RAMageddon with $353 off the Kingston Fury Renegade G5 SSD",
+      "url": "https://mashable.com/tech/july-31-renegade-g5-ssd-deal",
+      "datePublished": "2026-07-31T14:55:49.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of July 31, you can get the Kingston Fury Renegade G5 SSD for $379.99 at Amazon, down from $732.99.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06Sbirmg8tkBxMMx4FE3xz8/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "9ca976f83ae67282",
+      "title": "Looking for the ultimate gaming upgrade this weekend? Save $400 on this LG UltraGear OLED gaming monitor.",
+      "url": "https://mashable.com/tech/july-31-lg-ultragear-gaming-monitor-deal",
+      "datePublished": "2026-07-31T14:02:28.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of July 31, you can get a 27-inch LG Ultragear OLED gaming monitor (27GS93QE) for $499.99, down from $899.99, at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07wCUwHeLotlOmzPrllscE2/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "241e2c790dd8944e",
+      "title": "Everyones favorite earbuds are back down to $99 — shop Apple AirPods 4 now",
+      "url": "https://mashable.com/tech/july-31-apple-airpods-4-deal",
+      "datePublished": "2026-07-31T14:00:31.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of July 31, get the Apple AirPods 4 for just $99 at Amazon and save $30 off its $129 price tag.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02LDSQJIQ3dvPQg24cMWLEl/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "dd62b6fb8fa89d4b",
+      "title": "Samsungs 55-inch M80H Mini LED TV has never been cheaper — save over $100 this weekend",
+      "url": "https://mashable.com/tech/july-31-samsung-m80h-mini-led-tv-deal",
+      "datePublished": "2026-07-31T13:54:41.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The best 55-inch TV deal this weekend is Samsung's M80H Mini LED 4K TV, which is on sale at Amazon for a best-ever $537.99.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/078WLJ6BsAvaNEo4qVwl6n7/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "acbe28f382cc18d5",
+      "title": "Logan Pauls hunt for a Pokémon card that doesnt exist, explained",
+      "url": "https://mashable.com/life/logan-paul-first-pikachu-psa-10-hunt-explained",
+      "datePublished": "2026-07-31T13:46:52.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Logan Paul is hosting a livestream where he tries to acquire a Pokémon card that doesn't yet exist. But what's he trying to get, and what's the significance?",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04VnCCTS46P89wHVkuj1cmo/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "81df18c1c2721155",
+      "title": "Google DeepMind tests Gemini Robotics 2 doing chores around the house, and the future looks bright!",
+      "url": "https://mashable.com/tech/google-deepmind-gemini-robotics-2-household-chores",
+      "datePublished": "2026-07-31T12:35:26.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Google DeepMind demonstrated Gemini Robotics 2 performing household chores with the Apptronik Apollo 2 and Franka F3 Duo robots.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/00FMkkD3Bo5JbSZ0RAw3imQ/hero-image.webp",
+      "source": "Mashable"
+    },
+    {
+      "id": "b4c46679ef5bb702",
+      "title": "What we really think of the Steam Machine",
+      "url": "https://mashable.com/tech/what-we-really-think-of-the-steam-machine",
+      "datePublished": "2026-07-31T12:23:10.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Our experts tested the Steam Machine for weeks to see how Valve's hybrid gaming PC performs and whether it's worth buying.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/05PX2UUERBS9ootNOhVQnxi/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "284bc430c8f7cddc",
+      "title": "The Lego Marvel Spider-Man vs. Doc Ock Subway Train Scene is just $1 away from its best-ever price at Amazon",
+      "url": "https://mashable.com/life/july-31-lego-marvel-spider-man-doc-ock-subway-train-scene-deal",
+      "datePublished": "2026-07-31T12:19:29.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of July 31, the Lego Marvel Spider-Man vs. Doc Ock Subway Train Scene set has dropped to $44.99 at Amazon. That's 18% off its list price of $54.99.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00rXBw0KT6znzIVIrbqwb84/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "0892623b011b0701",
+      "title": "Grab Soundcore V40i by Anker open earbuds at their lowest-ever price at Amazon — save $10",
+      "url": "https://mashable.com/tech/july-31-soundcore-v40i-anker-open-earbuds-deal",
+      "datePublished": "2026-07-31T12:15:55.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of July 31, the Soundcore V40i by Anker open earbuds have dropped to their lowest price yet at Amazon of $29.99. That's 25% off their list price of $39.99.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05mmlaEj06C0zoIfzKwKjrw/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "dc7b2cb94b090218",
+      "title": "The Pokémon TCG Pitch Black Elite Trainer Box is at a new record-low price on Amazon — save nearly $40",
+      "url": "https://mashable.com/life/july-31-pokemon-tcg-pitch-black-elite-trainer-box-deal",
+      "datePublished": "2026-07-31T12:06:37.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Save $38 on the Pokémon TCG Pitch Black Elite Trainer Box at Amazon, now at a record-low $81.98 with free delivery.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01hxiZpNwpw4VBILGgavxJp/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "55432ff40868c624",
+      "title": "Emmy Rossum and Elizabeth Meriwether weigh in on Furiouss taboo but tender crime tale",
+      "url": "https://mashable.com/entertainment/furious-emmy-rossum-interview",
+      "datePublished": "2026-07-31T12:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Emmy Rossum, Elizabeth Meriwether, and Lola Petticrew talk about the crime story in \"Furious.\"",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/02wVnfm0vMOiJMBQ8abeSwQ/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "d5825e94c57a96a4",
+      "title": "Seth Meyers reacts to Trump mocking affordability with new segment",
+      "url": "https://mashable.com/entertainment/seth-meyers-trump-affordability-late-night",
+      "datePublished": "2026-07-31T11:58:50.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As Americans struggle to afford groceries and gas, Donald Trump mocked \"affordability\" during a rally. Seth Meyers has thoughts.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/02vVOmNLT5VS4ScGhCuqQuc/hero-image.png",
+      "source": "Mashable"
+    },
+    {
       "id": "sample-7",
       "title": "Sample: A city gallery pilots a pay-what-you-can evening",
       "url": "https://example.com/articles/sample-7",
       "datePublished": "2026-07-31T11:10:00.000Z",
-      "category": ["culture"],
+      "category": [
+        "culture"
+      ],
       "description": "Placeholder summary text for the culture category.",
       "author": "",
       "imageUrl": "",
       "source": "Mashable (sample)"
     },
     {
+      "id": "7087eb9c203f85b2",
+      "title": "Nightborns intense ending, explained",
+      "url": "https://mashable.com/entertainment/nightborn-ending-explained",
+      "datePublished": "2026-07-31T11:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Rupert Grint in a Finnish horror? Things get weird in Hanna Bergholm's \"Nightborn.\" Let's unpack that ending.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03Iy8w3GMDmygXbeypBdsXq/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "77c26010d97b9f2b",
+      "title": "Daily Shows Desi Lydic roasts Fox News response to Anthony Faucis diary",
+      "url": "https://mashable.com/entertainment/daily-show-desi-lydic-roasts-fox-anthony-fauci-diary",
+      "datePublished": "2026-07-31T10:37:39.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "\"Daily Show\" host Desi Lydic has mocked Fox News' response to Anthony Fauci's Covid diary.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/02cVmgloJnMfikO3SZTlCWo/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "77afd6865a7f5642",
+      "title": "BLACKPINKs Jisoo is tough as hell on Hot Ones",
+      "url": "https://mashable.com/entertainment/hot-ones-jisoo",
+      "datePublished": "2026-07-31T10:14:50.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "All four BLACKPINK members have now taken on the \"Hot Ones\" challenge, with Lisa, Rosé, Jennie, and now Jisoo appearing on First We Feast's iconic web series.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/02Jko7vTCCWWxv0yyTPNRsp/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "61bc20fe3aa3efc5",
+      "title": "Keep an eye on your favorite items with the Life360 Tile Starter Pack, now $17 off at Amazon",
+      "url": "https://mashable.com/tech/july-31-life360-tile-starter-pack-deal",
+      "datePublished": "2026-07-31T09:35:50.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of July 31, the Life360 Tile Starter Pack is discounted to $32.99 at Amazon, 34% off its list price of $49.99.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06EfdE0EI9Ppvn94mGrq0hN/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "aee52711b0ff4ccd",
+      "title": "The Skyrover S1 Mini Drone Combo has dropped to its best-ever price at Amazon — save $80 this weekend",
+      "url": "https://mashable.com/tech/july-31-skyrover-s1-drone-deal",
+      "datePublished": "2026-07-31T09:32:45.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the best drone deal on Amazon. Save 20% on the Skyrover S1 Mini Drone Combo at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07ynugG7Bt6PzZu8AXDvaly/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "2c217a6f70eb47bf",
+      "title": "The Skullcandy Crusher headphones have never been cheaper — buy now for under $100",
+      "url": "https://mashable.com/tech/july-31-skullcandy-crusher-headphones-deal",
+      "datePublished": "2026-07-31T09:30:16.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the best deal on headphones. Save 52% on the Skullcandy Crusher at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07p2s0Ocz0g7oYTOwTaRzYi/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "b0b81a1fef9b5176",
+      "title": "LinkedIn to add AI slop report feature that could train better AI slop",
+      "url": "https://mashable.com/tech/linkedin-ai-slop-report-feature",
+      "datePublished": "2026-07-31T09:28:53.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "LinkedIn will soon enable users to flag posts that appear to be \"AI slop.\"",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07k7qgtfLt8IA1m7lCuWHQ5/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "9f43fcceee625cc5",
+      "title": "The Ecovacs Deebot T90 robot vacuum is almost $200 off at Amazon — buy this weekend for $509",
+      "url": "https://mashable.com/tech/july-31-ecovacs-deebot-t90-robot-vacuum-deal",
+      "datePublished": "2026-07-31T09:26:07.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Find the best robot vacuum deal. Save 27% on the Ecovacs Deebot T90 at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06w6pDRCzU7q63vQzdJkZ4K/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "8689b79144a04e63",
+      "title": "Get a like-new Kindle Scribe for under $300 at Amazon — act fast to save over $70",
+      "url": "https://mashable.com/tech/july-31-amazon-refurbished-kindle-scribe-deal",
+      "datePublished": "2026-07-31T09:22:34.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Find the best Kindle Scribe deal at Amazon. Save 20% on the Like-New Kindle Scribe at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02TN59U3mqLscRinzHbTN1u/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "ff0aeda459c54496",
+      "title": "Home Depots Christmas in July collection is already selling out — shop the Grand Duchess tree, Towering Santa, and more",
+      "url": "https://mashable.com/life/home-depot-christmas-in-july-collection-2026-where-to-buy",
+      "datePublished": "2026-07-31T09:20:41.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Home Depot's Christmas in July collection has launched, featuring the return of the viral 9-foot Grand Duchess tree (now Hubspace app-enabled) and an 8.5-foot Towering Santa.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06L8ui6S7v3Uti7b6h6lTNA/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "9f8e54405e328b1b",
+      "title": "Whats the best time to buy a TV? Not just Black Friday. Shop strategically during these 4 windows.",
+      "url": "https://mashable.com/article/best-time-to-buy-a-tv",
+      "datePublished": "2026-07-31T09:05:52.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "TVs are on sale year round, but the real record-low sale prices are on an (unofficial) schedule. Let's unpack the best months to find TV deals.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/0007P9zfJGdqZMz4V1qASof/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "d144674508744612",
+      "title": "Best 65-inch+ TVs for watching in dark and bright rooms",
+      "url": "https://mashable.com/roundup/best-65-inch-tvs-2026-expert-tested",
+      "datePublished": "2026-07-31T09:00:08.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "We organized the best 4K big screens for QLED, OLED, mini LED, RGB, and art TVs. Shop top TVs for sports, gamers, and budget shoppers.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/roundups/02Vt7KHbTzDE6mNddTFlyNf/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "ca2448be75b49edc",
+      "title": "The latest iPhone 18 news, leaks, and rumors: Release date, price increases, and color options",
+      "url": "https://mashable.com/tech/apple-iphone-18-latest-rumors-release-date-leaks-july-2026",
+      "datePublished": "2026-07-31T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple is set to release the iPhone 18 lineup this fall, including a new iPhone 18 Pro Max. What should we expect from it?",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05fAeiICrQ2cWiUNllT8U0e/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "5d89bac29798bec2",
+      "title": "Lock in a year of NFL+ Premium for $20 less ahead of the 2026 season",
+      "url": "https://mashable.com/entertainment/nfl-plus-annual-plan-deals",
+      "datePublished": "2026-07-31T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The NFL+ and NFL+ Premium annual subscription are on sale ahead of the 2026 NFL season. Lock in a year for up to $20 off.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00dt7V6yG0m5sUuzcOMjYxL/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "9c76c08ee18acc3b",
+      "title": "This egg-sized air pump might be the best $23 you spend all summer",
+      "url": "https://mashable.com/travel/etenwolf-air-3-mini-air-pump",
+      "datePublished": "2026-07-31T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the Etenwolf Air 3 mini air pump for $22.99, down from $29.99, a 23% discount. It inflates an air mattress in a minute and doubles as a 600-lumen camping light.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03dFiQdIbYKo7jtk6GkvJUg/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "81a39084b7293267",
+      "title": "Who does Sadie Sink play in Spider-Man: Brand New Day?",
+      "url": "https://mashable.com/entertainment/who-does-sadie-sink-play-in-spider-man-brand-new-day-jean-grey",
+      "datePublished": "2026-07-31T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Sadie Sink's mystery role in \"Spider-Man: Brand New Day\" has caused tons of speculation. Now, we know who she is.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07l3fEn7csISZJyRPkExTax/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "38407c4cd8666233",
+      "title": "Learn how to use Claude like a pro for just $14",
+      "url": "https://mashable.com/tech/july-31-claude-ai-professional-e-degree",
+      "datePublished": "2026-07-31T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Master the ins and outs of Claude with this Claude AI Professional E-Degree, now just $14.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07xrR53AbUqR7mb44tJfo7M/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "c134d8449324c82d",
+      "title": "Enjoy a cleaner internet with this $40 all-in-one security suite",
+      "url": "https://mashable.com/tech/july-31-adguard-vpn-ad-blocker-family-security-suite",
+      "datePublished": "2026-07-31T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Put an end to incessant ads and enjoy a safer internet with this AdGuard VPN and Ad Blocker Family Security Suite, on sale now for just $39.97 (reg. $439.39).",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01zZl1h04B25vzjBghVLk0m/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "8e346444b63f0dfb",
+      "title": "The best internet moments of 2026 (so far)",
+      "url": "https://mashable.com/life/best-internet-moments-2026",
+      "datePublished": "2026-07-31T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The memes, trends, and cultural moments that took over the internet in the first five months of 2026.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06b5WPO1n0dbk6q1qnKr3uQ/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "3874e13e9f4a1e96",
+      "title": "I Want Your Sex review: Olivia Wilde dominates in salacious and silly comedy",
+      "url": "https://mashable.com/entertainment/i-want-your-sex-review",
+      "datePublished": "2026-07-31T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Cooper Hoffman, Mason Gooding, and Charli XCX co-star in Gregg Araki's wild sex comedy.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04uoch9wWhYj1fMKtJpjHtD/hero-image.webp",
+      "source": "Mashable"
+    },
+    {
+      "id": "714e0cad18f0b824",
+      "title": "Now streaming: How to watch The Drama starring Zendaya and Robert Pattinson",
+      "url": "https://mashable.com/article/how-to-watch-the-drama-a24",
+      "datePublished": "2026-07-31T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Is 'The Drama' streaming anywhere? Find out how to watch Zendaya and Robert Pattinson's rocky A24 romance at home.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01ROJqxGsQuXOFqKx8FFORo/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "3ae35c7ce6274aad",
+      "title": "AdultFriendFinder profiles: 3 tips to sort legit from fake",
+      "url": "https://mashable.com/article/adultfriendfinder-profiles-tips-to-sort-legit-from-fake",
+      "datePublished": "2026-07-31T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to find legit profiles on Adult Friend Finder. 3 tips to sort legit profiles from fake accounts on this hookup app.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00ePWELY5zpOEdbZuCkyASy/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "3f1c3a1aaa89c239",
+      "title": "AdultFriendFinder vs. Plenty of Fish: Most legit, success rates, and more",
+      "url": "https://mashable.com/article/adultfriendfinder-vs-plenty-of-fish",
+      "datePublished": "2026-07-31T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "AdultFriendFinder and Plenty of Fish continue to stay relevant, attracting millions of visitors from all over the world searching for connection.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/012z25eiVvzcKjqwIYk1JAM/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "7faf548420777291",
+      "title": "I Want Your Sex shows Gen Z as sexually repressed. Is that really true?",
+      "url": "https://mashable.com/life/i-want-your-sex-gen-z-sexually-repressed",
+      "datePublished": "2026-07-31T08:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The new Gregg Araki film 'I Want Your Sex' explores Gen Z's attitudes towards sex, and implies they're repressed.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01rFTt205nt8QZT0o8Ebzz6/hero-image.webp",
+      "source": "Mashable"
+    },
+    {
+      "id": "f5c86ce1fbaa1dc6",
+      "title": "Silo Season 3, episode 5 ending explained: Who is Per Stensen?",
+      "url": "https://mashable.com/entertainment/silo-season-3-episode-5-ending-per-stensen",
+      "datePublished": "2026-07-31T07:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "At the end of \"Silo\" Season 3, episode 5, Daniel and Helen discuss Per Stensen. But who is he, and how does he fit into the story?",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02eUoYa1yh8JIDkzVdrxkKJ/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "c7f73ea2c0a7e7ce",
+      "title": "Hurdle hints and answers for July 31, 2026",
+      "url": "https://mashable.com/entertainment/hurdle-hints-answers-july-31-2026",
+      "datePublished": "2026-07-31T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hints and answers to today's Hurdle all in one place.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04b5hSePjN7nij0ikNsfVxM/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "a5ae912ef6432985",
+      "title": "Moon phase today: What the Moon will look like on July 31",
+      "url": "https://mashable.com/science/moon-phase-today-july-31-2026",
+      "datePublished": "2026-07-31T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "See the Moon phase expected for July 31, 2026 as well as when the next Full Moon is expected.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06XJFpfGtTNggQQwdBDxhnI/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "f43bf81a1e3020d8",
+      "title": "NYT Pips hints, answers for July 31, 2026",
+      "url": "https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-july-31-2026",
+      "datePublished": "2026-07-31T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02MwtCSjbXIT8NQGUCM8prK/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ba9324cbefb47e8a",
+      "title": "NYT Connections Sports Edition today: Hints and answers for July 31, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-sports-edition-hint-answer-today-july-31-2026",
+      "datePublished": "2026-07-31T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/066kpwILPcoxtrOr3st3vT1/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "48cb20895312e3c0",
+      "title": "NYT Connections hints today: Clues, answers for July 31, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-july-31-2026",
+      "datePublished": "2026-07-31T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04RPiOLIoAa4WZMtUa4tnRM/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "f89611df6ea48d7f",
+      "title": "NYT Strands hints, answers for July 31, 2026",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-july-31-2026",
+      "datePublished": "2026-07-31T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/0561xGov9b7awWwFndn1mZ5/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "98c7c4c0fb4bd0e1",
+      "title": "Wordle today: Answer, hints for July 31, 2026",
+      "url": "https://mashable.com/entertainment/wordle-today-answer-july-31-2026",
+      "datePublished": "2026-07-31T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Here's the answer for \"Wordle\" #1868 on July 31 as well as a few hints, tips, and clues to help you solve it yourself.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02gmYg1E4SfqKJ9KV655nnH/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
       "id": "sample-8",
       "title": "Sample: Budget wireless earbuds close the gap on noise cancelling",
       "url": "https://example.com/articles/sample-8",
       "datePublished": "2026-07-30T16:45:00.000Z",
-      "category": ["tech", "lifestyle"],
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
       "description": "Placeholder summary text showing an older article, useful for testing the date filter and sort order.",
       "author": "",
       "imageUrl": "",
