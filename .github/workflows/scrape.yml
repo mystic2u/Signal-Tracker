@@ -1,0 +1,43 @@
+name: Scrape signals
+
+on:
+  schedule:
+    # Runs at the top of every hour.
+    - cron: '0 * * * *'
+  # Lets you trigger a scrape manually from the Actions tab, e.g. right after
+  # editing sources.json, instead of waiting for the next hour.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run scraper
+        run: npm run scrape
+
+      - name: Commit updated articles.json (if changed)
+        run: |
+          git config user.name "signal-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/data/articles.json
+          if git diff --staged --quiet; then
+            echo "No new articles, nothing to commit."
+          else
+            git commit -m "Update articles.json [automated]"
+            git push
+          fi
