@@ -1,6 +1,840 @@
 {
-  "generatedAt": "2026-08-03T07:37:18.439Z",
+  "generatedAt": "2026-08-03T16:58:25.103Z",
   "articles": [
+    {
+      "id": "61395df0f6f90557",
+      "title": "Base Power raises another $1B to save the grid using backyard batteries",
+      "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+      "datePublished": "2026-08-03T16:46:57.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Base Power’s $1 billion round will help the startup ramp production of its home batteries.",
+      "author": "Tim De Chant",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "06e62134a24cc695",
+      "title": "Congress’s favorite AI tool? ChatGPT",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "datePublished": "2026-08-03T16:40:55.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "author": "Rebecca Bellan",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "43238b6788d74d49",
+      "title": "Here's why you shouldn't buy new headphones without Bluetooth multipoint",
+      "url": "https://www.engadget.com/2226189/heres-why-dont-buy-headphones-bluetooth-multipoint/",
+      "datePublished": "2026-08-03T16:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The feature is a must-have, but some modern headphones and earbuds still don't offer it.",
+      "author": "staff@engadget.com (Max Miller)",
+      "imageUrl": "https://www.engadget.com/img/gallery/heres-why-you-shouldnt-buy-new-headphones-without-bluetooth-multipoint/l-intro-1784729056.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "a3e90380cd40bbd0",
+      "title": "Wispr Flow is preparing to launch a meeting notetaker, updated terms suggest",
+      "url": "https://techcrunch.com/2026/08/03/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
+      "datePublished": "2026-08-03T16:29:30.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.",
+      "author": "Ivan Mehta",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "651a20e51599e5f1",
+      "title": "Buy an Apple Gift Card at Best Buy, get a free Best Buy e-gift card",
+      "url": "https://mashable.com/tech/aug-3-best-buy-apple-gift-card-deal",
+      "datePublished": "2026-08-03T16:23:45.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Buy a $50 or $100 Apple Gift Card at Best Buy and automatically receive a bonus Best Buy e-gift card.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/042C4cZFBTPHeOhfPZg9dsn/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "7290efb94552c8a3",
+      "title": "Soar higher with the DJI Mini 3 Fly More Combo while its on sale for under $650",
+      "url": "https://mashable.com/tech/aug-3-dji-mini-3-fly-more-combo-deal",
+      "datePublished": "2026-08-03T16:13:48.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The DJI Mini 3 Fly More Combo is on sale at Amazon for $649, down from the list price of $719. That's a 10% discount.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/018mTnAPiko1Git1JYdCQK2/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ce1f2f7360561bfb",
+      "title": "Creator breaks down how leasing Apple products can save hundreds",
+      "url": "https://mashable.com/tech/creator-breaks-down-how-leasing-apple-products-could-save-hundreds",
+      "datePublished": "2026-08-03T16:07:40.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Tech creator Vadim Yuryev explains how Apple's new leasing program could save shoppers money over buying devices outright.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03PS88oiFPK9kFvwK96H62d/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "a60112ea543c9bc4",
+      "title": "Apple AirPods with cameras could arrive in weeks. What we know.",
+      "url": "https://mashable.com/tech/apple-airpods-camera-coming-soon-rumors-leaks",
+      "datePublished": "2026-08-03T16:00:04.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple's heavily rumored AirPods with cameras could actually launch as soon as this year, despite earlier reports.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03agZkxEtJW8nFoBEgCembW/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "662a043ec16472ba",
+      "title": "Furious just revealed the meaning of the memory box and the killers motive",
+      "url": "https://mashable.com/entertainment/furious-episode-4-memory-box",
+      "datePublished": "2026-08-03T16:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Are you really guilty when the motive is love? Lola Petticrew weighs in on Catherine's latest revelations.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06FeLURCpZ6QS8F8jPIUmEL/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "907a8649e643998e",
+      "title": "The Samsung Galaxy Buds4 Pro are nearly $90 off — and at a record low price",
+      "url": "https://mashable.com/tech/aug-3-samsung-galaxy-buds4-pro-deal",
+      "datePublished": "2026-08-03T15:50:20.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The Samsung Galaxy Buds4 Pro are $161.99 at Woot, putting them an impressive $88 below their list price.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/007IYxtbGXvRCppF1zmrlIo/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "6b9f3faeab071053",
+      "title": "Sonys 480Hz Inzone M10S gaming monitor is down to $798 at Amazon",
+      "url": "https://mashable.com/tech/aug-3-sony-inzone-gaming-monitor-deal",
+      "datePublished": "2026-08-03T15:48:04.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of Aug. 3, you can get Sony's 480Hz Inzone M10S gaming monitor for $798 at Amazon, down from $899.99.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01ubiOG1E99nMPNLxmnFana/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "99e794aa535c4a77",
+      "title": "Samsung says it's banning smart TV apps that expose users' internet connections",
+      "url": "https://www.engadget.com/2229078/samsung-says-its-banning-smart-tv-apps-that-expose-users-internet-connections/",
+      "datePublished": "2026-08-03T15:39:55.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Samsung says it's banning smart TV apps that expose users' internet connections.",
+      "author": "staff@engadget.com (Jackson Chen)",
+      "imageUrl": "https://www.engadget.com/img/gallery/samsung-says-its-banning-smart-tv-apps-that-expose-users-internet-connections/l-intro-1785771505.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "234e01ea398a935c",
+      "title": "Best wireless earbuds for 2026",
+      "url": "https://www.engadget.com/2229067/best-wireless-earbuds-120058222/",
+      "datePublished": "2026-08-03T15:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "It's safe to say the wireless earbuds space is pretty saturated. We've tested and reviewed dozens of models; these are our top picks.",
+      "author": "staff@engadget.com (Billy Steele)",
+      "imageUrl": "https://www.engadget.com/img/gallery/best-wireless-earbuds-for-2026/l-intro-1785521660.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "347ca3a9a9a3baf4",
+      "title": "Smartwatch vs smart ring for health tracking: The difference between these two wearables",
+      "url": "https://www.engadget.com/2226187/smartwatch-vs-smart-ring-health-tracking-difference-between-wearables/",
+      "datePublished": "2026-08-03T15:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Deciding between a smartwatch or a smart ring? Here's what to know.",
+      "author": "staff@engadget.com (Dave Meikleham)",
+      "imageUrl": "https://www.engadget.com/img/gallery/smartwatch-vs-smart-ring-for-health-tracking-the-difference-between-these-two-wearables/l-intro-1784907549.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "6879e15bc0600b8d",
+      "title": "This 65-inch Hisense E7 Mini LED 4K TV just hit a new best price ever at over $450 off",
+      "url": "https://mashable.com/tech/aug-3-hisense-e7-mini-led-4k-tv-deal",
+      "datePublished": "2026-08-03T15:26:12.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The Hisense 65-inch E7 Mini LED QLED 4K TV is on sale at Amazon for its best price ever of $547.99. That's 45% off its list price.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07rGaH2uRPyBFZSMSkgUDIK/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "df119ca35c57059c",
+      "title": "Thirsty? Snag one of Dunkin Donuts 1 million free Refreshers today only.",
+      "url": "https://mashable.com/life/aug-3-dunkin-donuts-free-refreshers-deal",
+      "datePublished": "2026-08-03T15:21:40.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Dunkin' Donuts is giving away 1 million free Refreshers drinks on Aug. 3. Here's how to get a free drink.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07e4ItLO7sOH3Rb630i7NeX/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "35cd890def435f3b",
+      "title": "Where singles are meeting each other, according to Eventbrite",
+      "url": "https://mashable.com/life/where-singles-are-meeting-eventbrite",
+      "datePublished": "2026-08-03T15:19:59.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Eventbrite reports that young adults want to go to events where socializing isn't the main draw. Here's where singles are meeting.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01xZtAxxO9pkL4dpPgV4SAI/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "3eefd01c964d5b31",
+      "title": "Pokémon TCG Pitch Black booster bundles are fluctuating on Amazon (heres how to get the best price)",
+      "url": "https://mashable.com/entertainment/aug-3-pokemon-pitch-black-booster-bundle-deal",
+      "datePublished": "2026-08-03T15:09:31.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of Aug. 3, you can get the Pokémon TCG: Mega Evolution — Pitch Black booster bundle for $42.99 at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04l1NGPz7S0AyeRKlc3chG9/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "faeee17ec45ce1ae",
+      "title": "Home Depot is giving away free lithium-ion batteries — heres how to qualify",
+      "url": "https://mashable.com/life/aug-3-home-depot-free-battery-deal",
+      "datePublished": "2026-08-03T14:54:44.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get a free lithium-ion battery with select tool purchases at Home Depot, including Ridgid 18V Nuke tools, Milwaukee M18 tools, and DeWalt Flexvolt 60V tools.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02g1Ai7dFDT8ssBXYNg6aEI/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "0dbef97f3932cab6",
+      "title": "Save over $60 on Sonys superb flagship XM6 headphones",
+      "url": "https://mashable.com/tech/aug-3-sony-wh-1000xm6-headphones-deal",
+      "datePublished": "2026-08-03T14:35:17.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The Sony flagship WH-1000XM6 noise-cancelling headphones are back on sale at Amazon for just $398. That's $62 off their list price.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02xReEEHKTHj3mgPxm4PdJJ/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "a83cc05e86675278",
+      "title": "How to stop your phone from overheating in the car",
+      "url": "https://www.engadget.com/2226185/how-to-stop-phone-overheating-in-car/",
+      "datePublished": "2026-08-03T14:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "There are several steps you can take to prevent your phone from getting dangerously hot.",
+      "author": "staff@engadget.com (Max Miller)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-stop-your-phone-from-overheating-in-the-car/l-intro-1785157697.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "f5440cbbdb2a5821",
+      "title": "The Owala FreeSip water bottle is back down to the lowest price ever",
+      "url": "https://mashable.com/life/aug-3-owala-freesip-deal",
+      "datePublished": "2026-08-03T14:26:24.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The 24-ounce Owala FreeSip is on sale at Amazon for $23.99 in select colorways, down from the list price of $29.99. That's a 20% discount.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07FiyKXjrCa2oO7aIpjrnwD/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "f9c9f91a370c7bd6",
+      "title": "Samsung Galaxy Z Fold 8 Ultra review: Nice upgrades, but not quite ultra",
+      "url": "https://www.engadget.com/2228942/samsung-galaxy-z-fold-8-ultra-review/",
+      "datePublished": "2026-08-03T13:51:13.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The Galaxy Z Fold 8 Ultra's new processor, brighter screens and chassis tweaks are nice, but the updates don't do enough to earn the 'ultra' tag.",
+      "author": "staff@engadget.com (Sam Rutherford)",
+      "imageUrl": "https://www.engadget.com/img/gallery/samsung-galaxy-z-fold-8-ultra-review-nice-upgrades-but-not-quite-ultra/l-intro-1785764499.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "95e37eb816d020c4",
+      "title": "Your Mother Your Mother Your Mother trailer: Mahershala Ali leaps into action",
+      "url": "https://mashable.com/entertainment/your-mother-your-mother-your-mother-trailer",
+      "datePublished": "2026-08-03T13:39:41.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Blade's not coming. But Ali is.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/01XAHtQGZNe7Ibjkw2T02OH/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "7e5a1e58dd9a8191",
+      "title": "How to change and customize your Apple Watch face",
+      "url": "https://www.engadget.com/2226183/how-to-change-customize-apple-watch-face/",
+      "datePublished": "2026-08-03T13:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Your Apple Watch has lots of options that will allow you to make it your own.",
+      "author": "staff@engadget.com (Alec Hively)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-change-and-customize-your-apple-watch-face/l-intro-1784658242.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "28cd418ada9af3eb",
+      "title": "EU announces new rules on AI transparency",
+      "url": "https://www.engadget.com/2228894/eu-announces-new-rules-on-ai-transparency/",
+      "datePublished": "2026-08-03T13:15:20.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The European Union has announced that new AI rules are now enforceable across the bloc.",
+      "author": "staff@engadget.com (Steve Dent)",
+      "imageUrl": "https://www.engadget.com/img/gallery/eu-announces-new-rules-on-ai-transparency/l-intro-1785762695.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "8d8ff98aed402fbc",
+      "title": "This $150 blasting system blows, sweeps, and reaches everywhere your vacuum wont",
+      "url": "https://mashable.com/life/shark-blastboss-air-blasting-system",
+      "datePublished": "2026-08-03T13:04:16.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The Shark BlastBoss is a cordless, rechargeable air-blasting system with speeds up to 190 MPH, featuring a precision nozzle, extension wand, and BlastBroom attachment for indoor and outdoor cleaning.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04Tr6KdYThbQGbubZN3rYAg/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "4e67a54e570f0d55",
+      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "datePublished": "2026-08-03T12:50:46.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
+      "author": "Kate Park",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "e6e7bfce3a6fd4b0",
+      "title": "10 years of Pixel and I still dont get it",
+      "url": "https://mashable.com/tech/10-years-of-pixel-and-i-still-dont-get-it",
+      "datePublished": "2026-08-03T12:45:48.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Google Pixel has been around for 10 years, but its phones still struggle to gain market share. Experts explain why.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/05LXUu3TXvx8dGT0pd9X218/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "9c8bf5e7edf7393f",
+      "title": "The Lego Star Wars AT-ST Walker falls to a new record-low price at Amazon — save over $20",
+      "url": "https://mashable.com/life/aug-3-lego-star-wars-at-st-walker-deal",
+      "datePublished": "2026-08-03T12:42:35.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of Aug. 3, the Lego Star Wars AT-ST Walker has dropped to $179 at Amazon, marking a new low price for it. Overall, it's 10% off its list price of $199.99.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04ucWMZkYrncNjCCv4w70Vd/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "2f7edff403ccb0ee",
+      "title": "Meet Americas first new subsea habitat in 40 years",
+      "url": "https://mashable.com/science/americas-first-new-subsea-habitat-in-40-years",
+      "datePublished": "2026-08-03T12:38:02.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Explore DEEP's Vanguard subsea habitat, the first new US-designed and built human subsea habitat in decades.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/0400WmlEduecqihnwf9duqa/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "abc6e8eb57cd5ef3",
+      "title": "House of the Dragon fans have a theory about how Sunfyre came back from the dead",
+      "url": "https://mashable.com/entertainment/house-dragon-sunfyre-back-to-life-theory",
+      "datePublished": "2026-08-03T12:29:44.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "In \"House of the Dragon\" Season 3, episode 7, Sunfyre comes back from the dead to save Aegon. Some fans have a theory about how.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07utuUIYGDA4aNbcTxg0cwC/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "a75dc1773ba3ec0e",
+      "title": "Samsung bans smart TV apps that share users’ internet connections with strangers",
+      "url": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
+      "datePublished": "2026-08-03T12:10:41.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.",
+      "author": "Zack Whittaker",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "6af720edc88b327c",
+      "title": "House of the Dragon Season 3: How many dragons are left on each side?",
+      "url": "https://mashable.com/entertainment/house-of-the-dragon-how-many-dragons-team-black-green",
+      "datePublished": "2026-08-03T11:37:24.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The tables have turned in \"House of the Dragon\" Season 3, so let's do a quick dragon roll call. How many are left on each side?",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/006wj6XurXhRZpSYZxlScDo/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "260f307b9843b8e4",
+      "title": "House of the Dragon Season 3, episode 7: Did Sheepstealer die?",
+      "url": "https://mashable.com/entertainment/house-dragon-did-sheepstealer-die",
+      "datePublished": "2026-08-03T11:36:35.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "\"House of the Dragon\" Season 3, episode 7 features a nasty dragon fight. But did Sheepstealer die?",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04ORL0PTQu5Ip83yeuBNV21/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "b330ae7db4dfc768",
+      "title": "Umbro’s new Spider-Man streetwear collab just dropped: Shop jackets, backpacks, shorts, and more Spidey gear",
+      "url": "https://mashable.com/life/boxlunch-umbro-spider-man-collection-launch",
+      "datePublished": "2026-08-03T10:58:46.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "BoxLunch has launched a Spider-Man x Umbro streetwear collection, including tees, jerseys, track sets, and accessories, timed to the character's new movie, which hit theaters last weekend.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07Fh7p64a86FTGoDKBx5GMi/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "f453873d8f8d282e",
+      "title": "Forget $1,000+ robot vacuums: iRobot’s auto-washing Roomba Plus 505 Combo hits $499",
+      "url": "https://mashable.com/tech/aug-3-irobot-roomba-deal",
+      "datePublished": "2026-08-03T10:27:54.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Find the best robot vacuum deal. Save 50% on the iRobot Roomba Plus 505 at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06uPL9p1HrQF7bCWLjhJCDu/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "f2aac9da40bc162e",
+      "title": "Stream summer blockbusters in 4K for cheap: Amazon’s Fire TV Stick 4K Select is $18 off",
+      "url": "https://mashable.com/tech/aug-3-fire-tv-stick-4k-select-deal",
+      "datePublished": "2026-08-03T10:25:21.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of Aug. 3, the Fire TV Stick 4K Select is on sale for $21.99 at Amazon, 45% off its list price of $39.99.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02G3KEn7F3WxzRczr39UtvS/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ef10db252b63c23e",
+      "title": "Upgrade your WFH coffee bar for under $90 with this rare Nespresso deal",
+      "url": "https://mashable.com/tech/aug-3-nespresso-coffee-machine-deal",
+      "datePublished": "2026-08-03T10:23:15.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Save 32% on the Nespresso Vertuo Pop+ at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/054YeYELTGC5qEVzg7idaVB/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "54eeff2c8d17f433",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "datePublished": "2026-08-03T10:00:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "author": "Tim Fernholz",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "6567103961ac44fd",
+      "title": "House of the Dragon fans are losing it over episode 7s big return",
+      "url": "https://mashable.com/entertainment/house-of-the-dragon-sunfyre-aegon-alive",
+      "datePublished": "2026-08-03T09:49:58.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Aegon II Targaryen (Tom Glynn-Carney) is rarely correct, but in the latest episode of \"House of the Dragon,\" he can absolutely say he told you so.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05g9r7lMRpz1ZdCJgRsj1fm/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "f0ffdad8b6bee068",
+      "title": "MacBook Air laptops are reportedly in short supply due to Ramaggedon",
+      "url": "https://www.engadget.com/2228802/macbook-airs-reportedly-in-short-supply-due-to-ramaggedon/",
+      "datePublished": "2026-08-03T09:43:32.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Not only did MacBook Air prices recently go up, but you couldn't get one today even if you wanted to.",
+      "author": "staff@engadget.com (Steve Dent)",
+      "imageUrl": "https://www.engadget.com/img/gallery/macbook-air-laptops-are-in-short-supply-due-to-ramaggedon/l-intro-1785750088.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "a29a81cf9c30aa05",
+      "title": "Lexars 2TB SSD just dropped by $130, right in the middle of RAMageddon",
+      "url": "https://mashable.com/tech/aug-3-lexar-2tb-external-ssd-deal",
+      "datePublished": "2026-08-03T09:37:45.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the Lexar 2TB ES5 Magnetic External SSD for $269.99, down from $399.99 — a 33% discount, even as memory and storage prices spike.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/001AkFvDnRWwQguhFdbqqQF/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ed503396660adb86",
+      "title": "The ultimate travel creator flex: DJI’s 8K Osmo 360 camera combo drops under $400",
+      "url": "https://mashable.com/tech/aug-3-dji-osmo-360-essential-combo-deal",
+      "datePublished": "2026-08-03T09:35:39.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of Aug. 3, the DJI Osmo 360 Essential Combo is on sale for $389.35 at Amazon. That's 19% off its list price of $479.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03lJNPCzg8Z0zwQKhQ5fAmj/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "977dc7f688777b43",
+      "title": "Score flagship 4K gaming speed for cheap: Samsung’s 37-inch Odyssey G7 hits $575",
+      "url": "https://mashable.com/tech/aug-3-samsung-37-inch-odyssey-g7-deal",
+      "datePublished": "2026-08-03T09:31:39.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Save $324.99 on Samsung's 37-inch Odyssey G7 4K curved gaming monitor at Amazon, now on sale for $575.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00adfNCrVGXKAd5PwwSiDVu/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "989afc2e4b563369",
+      "title": "The best laptops of 2026: Out of the 80+ models weve tried, these are our 9 favorites",
+      "url": "https://mashable.com/roundup/best-laptops-2026-reviewed",
+      "datePublished": "2026-08-03T09:15:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "We tested over 80 laptops in the past two years to find the best laptop for every budget. See how the top MacBooks compare to our favorite Windows PCs.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/roundups/07B25zibpGnHbWHFwBfeK1n/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "8c8470b8d5e43b9d",
+      "title": "Beat the next blackout: Save on Anker’s fast-charging Solix C1000 power station at Amazon",
+      "url": "https://mashable.com/tech/aug-3-anker-solix-power-station-deal",
+      "datePublished": "2026-08-03T09:12:04.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Find the best power station deal at Amazon. Save 12% on the Anker Solix C1000 at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00v1gaZqCpgDOPwsvpoWmzx/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "824949c4dd0a0a00",
+      "title": "Magic: The Gatherings Marvel Super Heroes Jumpstart Booster Box is back under $150 on Amazon — save over $20",
+      "url": "https://mashable.com/life/aug-3-magic-the-gathering-marvel-super-heroes-jumpstart-booster-box-deal",
+      "datePublished": "2026-08-03T09:03:35.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Amazon has dropped the MTG Marvel Super Heroes Jumpstart Booster Box to $145.88, saving you $21.88 on 24 packs.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00qjfj353kp3PIk1brVatYI/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "4a65521985512d7a",
+      "title": "This $150 lifetime AI-powered app listens while you play piano and coaches you in real time",
+      "url": "https://mashable.com/life/aug-3-skoove-premium-lifetime-subscription",
+      "datePublished": "2026-08-03T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Learn piano with AI-powered feedback using a Skoove Premium Lifetime Subscription for $149.99 and enjoy 400+ lessons with no recurring subscription.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02Pn6t4KUot4dV1Mxvxtywo/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "8493595038053d51",
+      "title": "Skip the print shop with this $40 document-scanning app",
+      "url": "https://mashable.com/tech/aug-3-iscanner-app-lifetime-subscription",
+      "datePublished": "2026-08-03T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Save 80% on this iScanner lifetime subscription.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03VR7HBlpuDYLTiaScJNpg2/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ac868fb6138fc3ee",
+      "title": "QuickBooks Workforce Payroll plan is 90% off for the first 3 months — heres what youre getting",
+      "url": "https://mashable.com/tech/aug-3-quickbooks-workforce-payroll-deal",
+      "datePublished": "2026-08-03T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "QuickBooks' Workforce Payroll plan is 90% off for the first three months starting Aug. 3.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01y1zSMIqeEnsMXMaFGp8hv/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ad803a1bacf77b49",
+      "title": "AdultFriendFinder vs. Tinder: How they compare as hookup apps",
+      "url": "https://mashable.com/article/adultfriendfinder-vs-tinder-hookup-apps",
+      "datePublished": "2026-08-03T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "To help you pick your best hookup option, we've broken down some of the key differences between AdultFriendFinder and Tinder.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02LkjpQw5vN2itj9DDzHtIv/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "b7007972029d4902",
+      "title": "House of the Dragon Season 3 finale trailer teases the shows biggest battle so far",
+      "url": "https://mashable.com/entertainment/house-dragon-season-3-finale-trailer-tumbleton-battle",
+      "datePublished": "2026-08-03T08:56:56.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "HBO has shared its trailer for the \"House of the Dragon\" Season 3 finale, which looks like it'll feature a big battle at Tumbleton.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/06fuxxcsyeFk5STxRVegfkO/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "a628dfc5840a67f6",
+      "title": "The Pokémon TCG Chaos Rising Elite Trainer Box is under $85 at Amazon — save over $35",
+      "url": "https://mashable.com/life/aug-3-pokemon-tcg-chaos-rising-elite-trainer-box-deal",
+      "datePublished": "2026-08-03T08:56:52.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Save over $35 on the Pokémon TCG Chaos Rising Elite Trainer Box, now under $85 at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06ku30cD8LEzqMAxuJUx0JL/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "40090f06e3c9a5c1",
+      "title": "Samsung Galaxy S26 Ultra is 25% off right now — save over $300 at Amazon",
+      "url": "https://mashable.com/tech/aug-3-samsung-galaxy-s26-ultra-deal",
+      "datePublished": "2026-08-03T08:53:07.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the unlocked Samsung Galaxy S26 Ultra (256GB) for $977, down from $1,299.99 — a 25% discount on Samsung's latest flagship.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00T43dPDr7aqIYrQhs9AeL5/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "a413c6d73f93850d",
+      "title": "The Google Pixel 10a is on sale at Amazon — upgrade for $70 off for a limited time",
+      "url": "https://mashable.com/tech/aug-3-google-pixel-10a-deal",
+      "datePublished": "2026-08-03T08:47:17.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the best Google Pixel deal. Save 15% on the Google Pixel 10a at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02ysDYvrFmAvniIEit1erwF/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "149829565d5e936a",
+      "title": "T-Mobile is giving away the Apple iPhone 17 for free — how to qualify",
+      "url": "https://mashable.com/tech/free-apple-iphone-deal",
+      "datePublished": "2026-08-03T08:45:43.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to get free iPhone. Get the Apple iPhone 17 or iPhone 17 Pro for free when you sign up for T-Mobile.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/034PMRNFRmIbsK8iLwKjXAY/hero-image.jpg",
+      "source": "Mashable"
+    },
     {
       "id": "9a1738dc581ed617",
       "title": "Moon phase today: What the Moon will look like on August 3",
