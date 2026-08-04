@@ -57,6 +57,11 @@
   --cat-fashion: #b07fc9;
   --cat-sport: #6fae6f;
   --cat-culture: #8b7fc9;
+  --cat-entertainment: #cf6b52;
+  --cat-internet-culture: #a9b34f;
+  --cat-society: #5a93a6;
+  --cat-forums: #8f8f9e;
+  --cat-trends: #b6598f;
 }
 
 /* ==========================================================================
@@ -454,6 +459,13 @@
 .freq-tag--fashion { color: var(--cat-fashion); border-color: color-mix(in srgb, var(--cat-fashion) 45%, var(--border)); }
 .freq-tag--sport { color: var(--cat-sport); border-color: color-mix(in srgb, var(--cat-sport) 45%, var(--border)); }
 .freq-tag--culture { color: var(--cat-culture); border-color: color-mix(in srgb, var(--cat-culture) 45%, var(--border)); }
+.freq-tag--entertainment { color: var(--cat-entertainment); border-color: color-mix(in srgb, var(--cat-entertainment) 45%, var(--border)); }
+.freq-tag--internet-culture { color: var(--cat-internet-culture); border-color: color-mix(in srgb, var(--cat-internet-culture) 45%, var(--border)); }
+.freq-tag--society { color: var(--cat-society); border-color: color-mix(in srgb, var(--cat-society) 45%, var(--border)); }
+.freq-tag--forums { color: var(--cat-forums); border-color: color-mix(in srgb, var(--cat-forums) 45%, var(--border)); }
+.freq-tag--trends { color: var(--cat-trends); border-color: color-mix(in srgb, var(--cat-trends) 45%, var(--border)); }
+
+.card:has(.freq-tag--tech) { border-left-color: var(--cat-tech); }
 
 .card:has(.freq-tag--tech) { border-left-color: var(--cat-tech); }
 .card:has(.freq-tag--food) { border-left-color: var(--cat-food); }
@@ -463,6 +475,11 @@
 .card:has(.freq-tag--fashion) { border-left-color: var(--cat-fashion); }
 .card:has(.freq-tag--sport) { border-left-color: var(--cat-sport); }
 .card:has(.freq-tag--culture) { border-left-color: var(--cat-culture); }
+.card:has(.freq-tag--entertainment) { border-left-color: var(--cat-entertainment); }
+.card:has(.freq-tag--internet-culture) { border-left-color: var(--cat-internet-culture); }
+.card:has(.freq-tag--society) { border-left-color: var(--cat-society); }
+.card:has(.freq-tag--forums) { border-left-color: var(--cat-forums); }
+.card:has(.freq-tag--trends) { border-left-color: var(--cat-trends); }
 
 .card-time {
   display: flex;
