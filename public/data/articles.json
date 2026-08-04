@@ -1,6 +1,489 @@
 {
-  "generatedAt": "2026-08-04T06:17:33.137Z",
+  "generatedAt": "2026-08-04T13:23:29.100Z",
   "articles": [
+    {
+      "id": "59d64c5a018be94f",
+      "title": "How much is Spotify Premium in the U.S.?",
+      "url": "https://mashable.com/article/how-much-spotify-premium",
+      "datePublished": "2026-08-04T13:06:18.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Want to join more than 300 million Spotify Premium subscribers in enjoying ad-free music? Here's how.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/061LzFDcLIJgNyhG84lRpp3/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "acf8eb5bad01d4b0",
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "datePublished": "2026-08-04T13:00:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+      "author": "Dominic-Madori Davis",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "59b3961d7ead49f5",
+      "title": "Lenovo Yoga Slim 7i Ultra Aura Edition review: A capable ultralight laptop that's way too expensive",
+      "url": "https://www.engadget.com/2227912/lenovo-yoga-slim-7i-ultra-aura-edition-review/",
+      "datePublished": "2026-08-04T13:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "There's a lot to like about the Yoga Slim 7i, but the current price is a bit too steep.",
+      "author": "staff@engadget.com (Devindra Hardawar)",
+      "imageUrl": "https://www.engadget.com/img/gallery/lenovo-yoga-slim-7i-ultra-aura-edition-review-a-capable-ultralight-laptop-thats-way-too-expensive/l-intro-1785509712.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "4aab6853e30903d4",
+      "title": "CMFs first pair of open earbuds are finally here and have the potential to be a category best this year",
+      "url": "https://mashable.com/tech/cmf-clip-pro-earbuds-launch-first-impressions-price",
+      "datePublished": "2026-08-04T13:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The CMF Clip Pro are the first open earbuds from the brand, and they didn't hold back. Our audio expert dives into what makes them so impressive.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05eqre53e5zml6x6II0M11E/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "98eca52a3eb428c0",
+      "title": "Spotify just hit 300 million Premium subscribers",
+      "url": "https://www.engadget.com/2229798/spotify-just-hit-300-million-premium-subscribers/",
+      "datePublished": "2026-08-04T12:49:31.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Spotify announced that it now has 300 million Premium subscribers, three times more than Apple Music.",
+      "author": "staff@engadget.com (Steve Dent)",
+      "imageUrl": "https://www.engadget.com/img/gallery/spotify-just-hit-300-million-premium-subscribers/l-intro-1785847691.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "dc1458f0e6936fd8",
+      "title": "Spotify hits 300 million Premium subscribers",
+      "url": "https://mashable.com/tech/spotify-premium-subscribers-total-hits-300-million",
+      "datePublished": "2026-08-04T12:41:06.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Spotify has 300 million Premium subscribers, according to the company's Q2 earnings report.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07yhRQkW081aRrHajEjODiA/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "4250ad4d29288acf",
+      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+      "datePublished": "2026-08-04T12:00:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
+      "author": "Tim Fernholz",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "502541abf26a52eb",
+      "title": "DJI's Mic Mini 2S is the first in its Mini lineup that can record your audio internally",
+      "url": "https://www.engadget.com/2229755/dji-mic-mini-2s-internal-recording/",
+      "datePublished": "2026-08-04T12:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "DJI's Mic Mini 2S gives creators a backup with 32-bit float internal recording.",
+      "author": "staff@engadget.com (Steve Dent)",
+      "imageUrl": "https://www.engadget.com/img/gallery/dji-mic-mini-2s-internal-recording/l-intro-1785846447.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "17831ff4f7a9894b",
+      "title": "Here's how to watch the Nintendo Direct for Fire Emblem: Fortune's Weave",
+      "url": "https://www.engadget.com/2229520/here-s-how-to-watch-the-nintendo-direct-for-fire-emblem-fortune-s-weave/",
+      "datePublished": "2026-08-04T12:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The livestream starts today at 10AM ET/7AM PT.",
+      "author": "staff@engadget.com (Sam Rutherford)",
+      "imageUrl": "https://www.engadget.com/img/gallery/heres-how-to-watch-the-nintendo-direct-for-fire-emblem-fortunes-weave/l-intro-1785791234.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "d93aa76dd9e01011",
+      "title": "DJI launches Mic Mini 2S, but not in the U.S.",
+      "url": "https://mashable.com/tech/dji-mic-mini-2s-launch",
+      "datePublished": "2026-08-04T12:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "DJI's Mic Mini 2S upgrades its Mic Mini 2 with internal recording and the ability to use four transmitters at once.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00CudV0ZlsJHMccCTaBNlDh/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "1d328639616125f4",
+      "title": "OpenAI says Apple 'is getting this wrong' after trade secret lawsuit",
+      "url": "https://www.engadget.com/2229768/open-ai-says-apple-is-wrong-in-trade-secret-lawsuit/",
+      "datePublished": "2026-08-04T11:54:50.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple sued OpenAI and two of its former employees for trade secret theft. OpenAI has just published its response.",
+      "author": "staff@engadget.com (Mariella Moon)",
+      "imageUrl": "https://www.engadget.com/img/gallery/openai-says-apple-is-getting-this-wrong-after-trade-secret-lawsuit/l-intro-1785844368.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "f6a8e4969e2da8b7",
+      "title": "One of our favorite 2-in-1 robot vacuums just hit an irresistible $300 discount",
+      "url": "https://mashable.com/life/aug-4-eufy-c28-robot-vacuum-mop-deal",
+      "datePublished": "2026-08-04T11:51:24.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of Aug. 4, the Eufy C28 robot vacuum and mop has dropped to $499.99 at Amazon, 38% off its list price of $799.99.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04mj30qshebT2EtWFBLcGUc/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "5f3b1dc8494d36f3",
+      "title": "Magic: The Gatherings 30-pack Marvel Super Heroes Play Booster Box is back on sale at Amazon — save $60 now",
+      "url": "https://mashable.com/life/aug-4-magic-the-gathering-marvel-super-heroes-play-booster-box-deal",
+      "datePublished": "2026-08-04T11:49:29.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Save $60.75 on the Magic: The Gathering Marvel Super Heroes Play Booster Box at Amazon, now down to $148.95.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05jN3lZTOgZYWF00lIUXXQO/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "0b96bcbf44c74101",
+      "title": "Bending Spoons to buy Airtable for $1.28B",
+      "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+      "datePublished": "2026-08-04T11:30:56.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "At its peak in 2021, Airtable was valued at over $11 billion, but earlier this year, its shares were said to be trading on the secondary markets at a valuation of $4 billion.",
+      "author": "Ivan Mehta",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "135f85bb087d33c9",
+      "title": "Best-ever price: The Pokémon TCG Chaos Rising Booster Bundle is under $50 at Amazon",
+      "url": "https://mashable.com/life/aug-4-pokemon-tcg-chaos-rising-booster-bundle-deal",
+      "datePublished": "2026-08-04T10:43:31.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Amazon has dropped the Pokémon TCG Chaos Rising Booster Bundle to a record-low $41.95, saving you $18.04.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04t3ROUbyGV5MqCCUFc5nje/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "5098d83a903296ca",
+      "title": "Upgrade your battlestation: LG’s curved 5K2K UltraGear evo OLED monitor drops below $1,300",
+      "url": "https://mashable.com/tech/aug-4-lg-ultragear-evo-curved-gaming-monitor-deal",
+      "datePublished": "2026-08-04T10:34:44.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of Aug. 4, the LG 39-inch Ultragear evo 5K2K WUHD OLED curved gaming monitor is on sale for $1,599.99 at Amazon, 11% off its list price of $1,799.99.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03cuUK2yCAxAeOzFUMpiNA2/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "2448a1271e8b5b16",
+      "title": "Sony’s XM6 headphones were already elite — now they come in a stunning new colorway",
+      "url": "https://mashable.com/tech/sony-xm6-olive-gray-color",
+      "datePublished": "2026-08-04T10:29:44.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get Sony's WH-1000XM6 headphones in the new Olive Gray colorway for $399.99, down from $459.99 — a $60 discount.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03CfqbEZdwhVXwMfGEJpBkU/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "8d0b67b4b59ba58b",
+      "title": "Apple pulls Telegram from app store, gets a snarky response",
+      "url": "https://mashable.com/tech/apple-pulls-telegram-app-store",
+      "datePublished": "2026-08-04T09:51:19.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple removed Telegram from its app store on Monday, before reinstating the app not long after.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06RxYRItZIsu4SUXytK45wJ/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "40704aea6549c0b1",
+      "title": "The Pokémon TCG Pitch Black Elite Trainer Box is well below market price on Amazon — save $50",
+      "url": "https://mashable.com/life/aug-4-pokemon-tcg-pitch-black-elite-trainer-box-deal",
+      "datePublished": "2026-08-04T09:50:11.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Amazon has dropped the Pokémon TCG Pitch Black Elite Trainer Box to a record-low $69.95, saving you $50.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01ihRH3TEY1wGtnfLCPJiq2/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "98e537c73d01cf51",
+      "title": "Our favorite budget earbuds are now under $55 at Amazon",
+      "url": "https://mashable.com/tech/aug-4-earfun-air-pro-4-earbuds-deal",
+      "datePublished": "2026-08-04T09:44:03.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of Aug. 4, the black EarFun Air Pro 4 earbuds are on sale for $53.16 at Amazon, 33% off their list price of $79.90.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05JRdlvpTg7qiqBgcyDNj9S/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "f1b87d4282ec94ce",
+      "title": "NYT Mini crossword answers, hints for Aug. 4, 2026",
+      "url": "https://mashable.com/entertainment/nyt-mini-crossword-answers-hints-august-4-2026",
+      "datePublished": "2026-08-04T09:34:26.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Answers to each clue for the Aug. 4, 2026 edition of NYT's The Mini crossword puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00U6MzRhuF9vFxFJequeGyv/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "be0a4ad4fb90f97c",
+      "title": "Nordstroms Anniversary Sale has beauty tech tools on sale — heres what to expect",
+      "url": "https://mashable.com/life/nordstrom-anniversary-sale-beauty-tools",
+      "datePublished": "2026-08-04T09:23:33.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Nordstrom's Anniversary Sale is discounting select beauty tech tools up to 30% off starting Aug. 5, including devices from Dermaflash, Omnilux, and Dr. Dennis Gross.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/0708ybuGLaO190Z4iEh13cl/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "2bcf7ba66249cae8",
+      "title": "Apple is working on a seamless copy-paste experience between iPhones and Windows PCs",
+      "url": "https://www.engadget.com/2229725/apple-developing-seamless-copy-paste-experience-iphones-windows-pcs/",
+      "datePublished": "2026-08-04T09:22:06.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple is developing seamless copy-paste between iPhones and Windows PCs, but it's unclear if it will be available outside the EU.",
+      "author": "staff@engadget.com (Mariella Moon)",
+      "imageUrl": "https://www.engadget.com/img/gallery/apple-is-working-on-a-seamless-copy-paste-experience-between-iphones-and-windows-pcs/l-intro-1785835169.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "e6afc65f89e59538",
+      "title": "Score Amazon’s sleekest HD streaming stick for $19.99 right now",
+      "url": "https://mashable.com/tech/aug-4-fire-stick-hd-deal",
+      "datePublished": "2026-08-04T09:09:40.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the best streaming stick deal at Amazon. Save 43% on the Amazon Fire TV Stick HD.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01YJ3K67kzpjrAxknrMZ7yZ/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "978da5117b259841",
+      "title": "Upgrade your study setup for under $100 with this rare Sony noise-canceling headphones deal",
+      "url": "https://mashable.com/tech/aug-4-sony-headphones-deal",
+      "datePublished": "2026-08-04T09:04:15.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Find the best headphones deal. Save 46% on the Sony WH-CH720N headphones at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00fki4TAl3s1DWQIEDlidVV/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "08d4888caf58993c",
+      "title": "TikTok star Audity reveals what tools (and streaming subscription) are essential to her whimsical work",
+      "url": "https://mashable.com/life/audity-content-creator-in-my-bag",
+      "datePublished": "2026-08-04T09:00:34.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Creator essentials for character designer Audrey Hopkins, who thrills her TikTok followers with whimsical and weird drawings on her Audity channel.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05gXwNXrQp8nr2rr3sefbWb/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "98ec862cb2489471",
+      "title": "This award-winning $60 kids’ app is designed for exploration, not addiction",
+      "url": "https://mashable.com/life/aug-4-pok-pok-lifetime-subscription",
+      "datePublished": "2026-08-04T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get lifetime access to Pok Pok for $59.99 and enjoy award-winning, Montessori-inspired educational games designed to make screen time more creative and meaningful.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04YTD6Wq3EEKOTuKHTUea2L/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "e0d3d3b1de1ffc40",
+      "title": "Spend $80 on flowkey’s 5-year piano learning plan",
+      "url": "https://mashable.com/life/aug-4-flowkey-classic-plan-5-year-subscription",
+      "datePublished": "2026-08-04T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The flowkey Piano Learning App: Classic Plan (5-Year Subscription) is on sale for $79.99.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04u1Mk9AH8LUq6ZPCooaFBH/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "552ad386ad2f675a",
+      "title": "AdultFriendFinder vs. FetLife: Which is better for exploring specific kinks?",
+      "url": "https://mashable.com/article/adultfriendfinder-vs-fetlife-which-is-better-for-kinks",
+      "datePublished": "2026-08-04T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Here are the major differences in how AFF and FetLife cater for kinks. Comparison of sex-positive communities.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01FczhDrT0bft8eUTKcrW65/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "5cab0491db844b63",
+      "title": "The Beats Solo 4 headphones are down to their best-ever price, but theres a catch",
+      "url": "https://mashable.com/tech/aug-4-beats-solo-4-deal",
+      "datePublished": "2026-08-04T08:54:26.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the best deal on headphones. Save 50% on the Beats Solo 4 at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06zq6sFy1czSEcmnassN82z/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "9636e764945ba595",
+      "title": "Want a bigger TV? Amazons Ember 75-inch QLED model is $150 off if you act fast.",
+      "url": "https://mashable.com/tech/aug-4-amazon-ember-qled-tv-deal",
+      "datePublished": "2026-08-04T08:49:38.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the best TV deal. Save 12% on the Amazon Ember 75-inch QLED at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04QjSX4draaHIO5C1uYG7NV/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "718dac3a24be7433",
+      "title": "Snap CEO addresses Specs preorder interest during Q2 earnings call",
+      "url": "https://mashable.com/tech/snap-specs-preorder-numbers-earnings-call",
+      "datePublished": "2026-08-04T08:41:32.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Snap CEO Evan Spiegel spoke about the response to its upcoming Specs AR glasses during the company's Q2 2026 earnings call.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/017nzHipCV3dupWpioB24O3/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "0dacfe725b55af41",
+      "title": "How to watch the Premier League online for free",
+      "url": "https://mashable.com/entertainment/premier-league-live-stream-free",
+      "datePublished": "2026-08-04T08:12:49.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch Premier League for free. Live stream the 2026-27 Premier League for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02UV5KvoC9EkmtnsCpDBJs7/hero-image.jpg",
+      "source": "Mashable"
+    },
     {
       "id": "1e61c761cec169ec",
       "title": "Hurdle hints and answers for August 4, 2026",
