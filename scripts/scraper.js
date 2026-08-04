@@ -64,6 +64,63 @@ const BUILT_IN_SOURCES = [
     url: 'https://www.prnewswire.com/rss/lifestyle-latest-news.rss',
     categories: ['lifestyle'],
   },
+
+  // Entertainment & pop culture
+  { name: 'Vulture', url: 'http://feeds.feedburner.com/nymag/vulture', categories: ['entertainment'] },
+  { name: 'The A.V. Club', url: 'https://www.avclub.com/rss', categories: ['entertainment'] },
+  { name: 'Variety', url: 'https://variety.com/feed/', categories: ['entertainment'] },
+  { name: 'The Hollywood Reporter', url: 'https://www.hollywoodreporter.com/feed/', categories: ['entertainment'] },
+  { name: 'Pitchfork', url: 'https://pitchfork.com/rss/news/', categories: ['entertainment'] },
+  { name: 'Rolling Stone', url: 'https://www.rollingstone.com/feed/', categories: ['entertainment'] },
+  { name: 'Consequence', url: 'https://consequence.net/feed/', categories: ['entertainment'] },
+  { name: 'IndieWire', url: 'https://www.indiewire.com/feed/', categories: ['entertainment'] },
+  { name: 'Polygon', url: 'https://www.polygon.com/rss/index.xml', categories: ['entertainment'] },
+  { name: 'The Ringer', url: 'https://www.theringer.com/rss/index.xml', categories: ['entertainment'] },
+
+  // Social media & internet culture
+  { name: 'Know Your Meme', url: 'https://knowyourmeme.com/newsfeed.rss', categories: ['internet-culture'] },
+  { name: 'Kotaku', url: 'https://kotaku.com/rss', categories: ['internet-culture'] },
+  { name: 'Dazed', url: 'https://www.dazeddigital.com/feed', categories: ['internet-culture'] },
+  { name: 'Highsnobiety', url: 'https://www.highsnobiety.com/feed/', categories: ['internet-culture', 'fashion'] },
+  // Skipped: Garbage Day, Embedded (Ryan Broderick), Blackbird Spyplane —
+  // no confirmed RSS URL. Add them here once you've found a working feed.
+
+  // Society, sociology, anthropology
+  { name: 'Aeon', url: 'https://aeon.co/feed.rss', categories: ['society'] },
+  { name: 'Psyche', url: 'https://psyche.co/feed.rss', categories: ['society'] },
+  { name: 'The Conversation (UK)', url: 'https://theconversation.com/uk/feeds/all.atom', categories: ['society'] },
+  { name: 'Sapiens.org', url: 'https://www.sapiens.org/feed/', categories: ['society'] },
+  { name: 'Real Life Mag', url: 'https://reallifemag.com/feed/', categories: ['society'] },
+  { name: 'n+1', url: 'https://www.nplusonemag.com/feed/', categories: ['society'] },
+  { name: 'The Baffler', url: 'https://thebaffler.com/feed', categories: ['society'] },
+  { name: 'Boston Review', url: 'https://www.bostonreview.net/feed/', categories: ['society'] },
+  { name: 'Jacobin', url: 'https://jacobin.com/feed/', categories: ['society'] },
+  // Skipped: Anthropology News (AAA) — no reliable public feed found.
+
+  // General culture/ideas magazines
+  { name: 'The Atlantic (Culture)', url: 'https://www.theatlantic.com/feed/channel/entertainment/', categories: ['culture'] },
+  { name: 'The New Yorker', url: 'https://www.newyorker.com/feed/everything', categories: ['culture'] },
+  { name: 'The New Republic', url: 'https://newrepublic.com/rss.xml', categories: ['culture'] },
+  { name: 'New York Magazine (Intelligencer)', url: 'https://nymag.com/rss/intelligencer.xml', categories: ['culture'] },
+  { name: 'Slate (Culture)', url: 'https://slate.com/feeds/culture.rss', categories: ['culture'] },
+  { name: 'The Guardian (Culture)', url: 'https://www.theguardian.com/culture/rss', categories: ['culture'] },
+  { name: 'London Review of Books', url: 'https://www.lrb.co.uk/feeds/rss', categories: ['culture'] },
+  // Skipped: Harper's — no reliable public feed found.
+
+  // Forums and discussion. Reddit's .rss endpoints are the most likely of
+  // this whole batch to get blocked from a GitHub Actions IP — that's what
+  // the health-check summary at the end of each run is for.
+  { name: 'r/sociology', url: 'https://old.reddit.com/r/sociology/.rss', categories: ['forums', 'society'] },
+  { name: 'r/anthropology', url: 'https://old.reddit.com/r/anthropology/.rss', categories: ['forums', 'society'] },
+  { name: 'r/OutOfTheLoop', url: 'https://old.reddit.com/r/OutOfTheLoop/.rss', categories: ['forums'] },
+  { name: 'r/CulturalStudies', url: 'https://old.reddit.com/r/CulturalStudies/.rss', categories: ['forums', 'culture'] },
+  { name: 'r/SocialMedia', url: 'https://old.reddit.com/r/SocialMedia/.rss', categories: ['forums', 'internet-culture'] },
+  { name: 'Hacker News', url: 'https://hnrss.org/frontpage', categories: ['forums', 'tech'] },
+  { name: 'Metafilter', url: 'https://www.metafilter.com/index.rdf', categories: ['forums'] },
+
+  // Trend and youth culture
+  { name: 'Trend Hunter', url: 'https://www.trendhunter.com/rss/current', categories: ['trends'] },
+  // Skipped: Contagious and WGSN — paywalled, no open feed.
 ];
 
 const parser = new Parser({
@@ -103,7 +160,7 @@ function extractImage(item) {
 async function fetchFeed(source) {
   try {
     const feed = await parser.parseURL(source.url);
-    return (feed.items || []).map((item) => {
+    const items = (feed.items || []).map((item) => {
       const link = item.link || '';
       const title = item.title || 'Untitled';
       return {
@@ -118,9 +175,9 @@ async function fetchFeed(source) {
         source: source.name,
       };
     });
+    return { items, error: null };
   } catch (err) {
-    console.error(`[scraper] Failed to fetch "${source.name}" (${source.url}): ${err.message}`);
-    return [];
+    return { items: [], error: err.message };
   }
 }
 
@@ -151,6 +208,59 @@ async function loadExistingArticles() {
   }
 }
 
+// Flags any feed that came back broken or empty, so you don't have to check
+// 40+ URLs by hand to find the ones that have drifted. Prints to the console
+// either way, and — when run inside GitHub Actions — also writes to the job
+// summary so it shows up as a readable table on the run's page, not just
+// buried in the log.
+function buildHealthReport(results) {
+  const failed = results.filter((r) => r.status !== 'ok');
+  const lines = [];
+
+  lines.push('');
+  lines.push('=== Feed health check ===');
+  results.forEach((r) => {
+    const icon = r.status === 'ok' ? '✓' : r.status === 'empty' ? '⚠' : '✗';
+    const detail = r.status === 'error' ? r.error : `${r.count} item(s)`;
+    lines.push(`${icon} ${r.name}: ${detail}`);
+  });
+
+  if (failed.length) {
+    lines.push('');
+    lines.push(`${failed.length} of ${results.length} source(s) need attention:`);
+    failed.forEach((r) => {
+      lines.push(`  - ${r.name} (${r.url}) — ${r.status === 'error' ? r.error : 'returned 0 items'}`);
+    });
+  } else {
+    lines.push('');
+    lines.push('All sources returned data.');
+  }
+
+  console.log(lines.join('\n'));
+
+  if (process.env.GITHUB_STEP_SUMMARY) {
+    const rows = results
+      .map((r) => {
+        const icon = r.status === 'ok' ? '✅' : r.status === 'empty' ? '⚠️' : '❌';
+        const detail = r.status === 'error' ? r.error : `${r.count} item(s)`;
+        return `| ${icon} | ${r.name} | ${detail} |`;
+      })
+      .join('\n');
+    const summary = [
+      '## Feed health check',
+      failed.length
+        ? `**${failed.length} of ${results.length} source(s) need attention.**`
+        : '**All sources returned data.**',
+      '',
+      '| | Source | Result |',
+      '|---|---|---|',
+      rows,
+    ].join('\n');
+    return writeFile(process.env.GITHUB_STEP_SUMMARY, summary + '\n', { flag: 'a' });
+  }
+  return Promise.resolve();
+}
+
 async function main() {
   const customSources = await loadCustomSources();
   const allSources = [...BUILT_IN_SOURCES, ...customSources];
@@ -158,12 +268,19 @@ async function main() {
   console.log(`[scraper] Fetching ${allSources.length} source(s)...`);
 
   const fetched = [];
+  const results = [];
   for (const source of allSources) {
-    const items = await fetchFeed(source);
-    console.log(`[scraper]   ${source.name}: ${items.length} item(s)`);
+    const { items, error } = await fetchFeed(source);
+    const status = error ? 'error' : items.length === 0 ? 'empty' : 'ok';
+    results.push({ name: source.name, url: source.url, status, count: items.length, error });
+    console.log(
+      `[scraper]   ${source.name}: ${error ? `error — ${error}` : `${items.length} item(s)`}`
+    );
     fetched.push(...items);
     await sleep(REQUEST_DELAY_MS);
   }
+
+  await buildHealthReport(results);
 
   const existing = await loadExistingArticles();
   const byId = new Map(existing.map((a) => [a.id, a]));
