@@ -9,6 +9,11 @@ export const CATEGORIES = [
   { id: 'fashion', label: 'Fashion' },
   { id: 'sport', label: 'Sport' },
   { id: 'culture', label: 'Culture' },
+  { id: 'entertainment', label: 'Entertainment' },
+  { id: 'internet-culture', label: 'Internet culture' },
+  { id: 'society', label: 'Society' },
+  { id: 'forums', label: 'Forums' },
+  { id: 'trends', label: 'Trends' },
 ];
 
 export const DEFAULT_NOTIFICATION_PREFS = {
@@ -20,6 +25,11 @@ export const DEFAULT_NOTIFICATION_PREFS = {
   fashion: { enabled: true, frequency: 5 },
   sport: { enabled: true, frequency: 5 },
   culture: { enabled: true, frequency: 10 },
+  entertainment: { enabled: true, frequency: 10 },
+  'internet-culture': { enabled: true, frequency: 5 },
+  society: { enabled: true, frequency: 5 },
+  forums: { enabled: true, frequency: 5 },
+  trends: { enabled: true, frequency: 5 },
 };
 
 export const STORAGE_KEY = 'signal-tracker-data';
