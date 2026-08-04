@@ -1,6 +1,641 @@
 {
-  "generatedAt": "2026-08-04T13:23:29.100Z",
+  "generatedAt": "2026-08-04T19:12:55.695Z",
   "articles": [
+    {
+      "id": "65e6228bfe0ba069",
+      "title": "Can MS Paint run Doom? (Yes)",
+      "url": "https://www.engadget.com/2230268/can-ms-paint-run-doom-yes/",
+      "datePublished": "2026-08-04T18:51:23.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Can MS Paint run Doom? (Yes)",
+      "author": "staff@engadget.com (Lawrence Bonk)",
+      "imageUrl": "https://www.engadget.com/img/gallery/can-ms-paint-run-doom-yes/l-intro-1785869421.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "7971384957de4d1c",
+      "title": "Apple caps bug bounty program due to deluge of AI submissions",
+      "url": "https://www.engadget.com/2230256/apple-caps-bug-bounty-program-due-to-deluge-of-ai-submissions/",
+      "datePublished": "2026-08-04T18:43:40.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple caps bug bounty program due to deluge of AI submissions.",
+      "author": "staff@engadget.com (Anna Washenko)",
+      "imageUrl": "https://www.engadget.com/img/gallery/apple-caps-bug-bounty-program-due-to-deluge-of-ai-submissions/l-intro-1785868965.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "2a6de4f22c04b879",
+      "title": "NJ antitrust suit accuses Amazon of unlawfully wielding power over delivery contractors ",
+      "url": "https://www.engadget.com/2230253/nj-antitrust-suit-accuses-amazon-of-unlawfully-wielding-power-over-delivery-contractors/",
+      "datePublished": "2026-08-04T18:37:56.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "NJ antitrust suit accuses Amazon of unlawfully wielding power over delivery contractors .",
+      "author": "staff@engadget.com (Kris Holt)",
+      "imageUrl": "https://www.engadget.com/img/gallery/nj-antitrust-suit-accuses-amazon-of-unlawfully-wielding-power-over-delivery-contractors/l-intro-1785868619.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "7a0d106dcf3ef3fa",
+      "title": "Get Mashable push notifications today",
+      "url": "https://mashable.com/life/how-to-set-up-mashable-push-notifications",
+      "datePublished": "2026-08-04T18:33:41.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Here’s how to turn on Mashable push notifications in Chrome, Firefox, Safari, and Edge.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04EFXA4zdnxXVfW5KHbJ60S/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "adcb82b8920c5b1b",
+      "title": "Don't use your car's USB ports to charge your laptop — Do this instead",
+      "url": "https://www.engadget.com/2228918/dont-use-car-usb-ports-to-charge-laptop-do-this-instead/",
+      "datePublished": "2026-08-04T18:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The USB port in your car is likely not powerful enough to charge your laptop, but there are other options.",
+      "author": "staff@engadget.com (Will Shanklin)",
+      "imageUrl": "https://www.engadget.com/img/gallery/dont-use-your-cars-usb-ports-to-charge-your-laptop-do-this-instead/l-intro-1785764263.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "077dff4c39cda0a7",
+      "title": "BMW is forcing a weird Spider-Man ad onto its dashboard displays",
+      "url": "https://www.engadget.com/2230202/bmw-is-forcing-a-weird-spider-man-ad-onto-its-dashboard-displays/",
+      "datePublished": "2026-08-04T17:52:19.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "BMW is forcing a weird Spider-Man ad onto its dashboard displays",
+      "author": "staff@engadget.com (Lawrence Bonk)",
+      "imageUrl": "https://www.engadget.com/img/gallery/bmw-is-forcing-a-weird-spider-man-ad-onto-its-dashboard-displays/l-intro-1785865886.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "7e9a3899692fd943",
+      "title": "For creators like Hank Green, AI is now a reputational risk",
+      "url": "https://mashable.com/life/hank-green-ai-reputational-risk-for-creators",
+      "datePublished": "2026-08-04T17:40:47.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hank Green's AI apology has sparked a wider conversation, as creators discover that generative AI can be a risk to their reputation.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02xDPgMSlLkq1SuqF02Gdtb/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "10f357aad1f0a8a6",
+      "title": "Waymo opens up robotaxi service in Dallas to everyone",
+      "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+      "datePublished": "2026-08-04T17:31:01.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.",
+      "author": "Kirsten Korosec",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "b856353df2d43d83",
+      "title": "Windows 11 Home Vs Pro: What's the difference, and is it worth the upgrade?",
+      "url": "https://www.engadget.com/2226197/windows-11-home-vs-pro-difference-explained/",
+      "datePublished": "2026-08-04T17:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Most Windows 11 users don't need to bother with the Pro version of Microsoft's operating system.",
+      "author": "staff@engadget.com (Dave Meikleham)",
+      "imageUrl": "https://www.engadget.com/img/gallery/windows-11-home-vs-pro-whats-the-difference-and-is-it-worth-the-upgrade/l-intro-1784815976.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "a4a9a8d9fa151132",
+      "title": "The Odyssey is exposing some unexpected dating dealbreakers",
+      "url": "https://mashable.com/life/the-odyssey-dating-ick-tiktok",
+      "datePublished": "2026-08-04T17:25:28.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The Odyssey is becoming a TikTok dating test as women share the movie moments that gave them the ick.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05lYHoXqrqHMHw58DZDxfi8/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "5505d21681a9e572",
+      "title": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
+      "url": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
+      "datePublished": "2026-08-04T17:20:54.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+      "author": "TechCrunch Events",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "406ff4bae15f18f9",
+      "title": "Add a new tablet to your tech stack with a $399.99 11-inch iPad",
+      "url": "https://mashable.com/tech/august-4-apple-ipad-deal",
+      "datePublished": "2026-08-04T17:19:01.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of August 4, get the 11-inch A16 iPad for just $399.99 at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07ctbCLzMGdATDnXTp5k81t/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "91f38adaff887a2c",
+      "title": "CMF announces its first pair of open-ear earbuds for under $100",
+      "url": "https://www.engadget.com/2230147/cmf-announces-its-first-pair-of-open-ear-earbuds-for-under-dollar100/",
+      "datePublished": "2026-08-04T17:12:57.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "CMF announces its first pair of open-ear earbuds for under $100.",
+      "author": "staff@engadget.com (Matt Tate)",
+      "imageUrl": "https://www.engadget.com/img/gallery/cmf-announces-its-first-pair-of-open-ear-earbuds-for-under-100/l-intro-1785863498.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "1a9453817a397139",
+      "title": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
+      "url": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
+      "datePublished": "2026-08-04T17:05:48.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Bingers is a new TV and movie tracker that revives the social features fans loved with TV Time, while adding support for importing their viewing history.",
+      "author": "Sarah Perez",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "a6a78f199ff2eba3",
+      "title": "Get lost in the best games of 2026 on the 45-inch LG Ultragear gaming monitor while its $700 off",
+      "url": "https://mashable.com/tech/aug-4-lg-45-inch-ultragear-deal",
+      "datePublished": "2026-08-04T16:58:06.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The 45-inch LG Ultragear OLED GX9 curved gaming monitor (45GX900A-B) is on sale at Amazon for $999.99, down from the normal price of $1,699.99. That's a 41% discount.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06oNJNevvY8WK8B2iAboZc9/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "80db17c1757ef2b1",
+      "title": "Microsoft warns hackers have compromised many hotel WiFi networks",
+      "url": "https://mashable.com/tech/microsoft-hackers-hotel-wifi-hospitality-breach",
+      "datePublished": "2026-08-04T16:55:46.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Microsoft warned that hackers are targeting WiFi networks in hospitality-focused businesses, like hotels. Here are warning signs.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02ZYbia2x8dyiBia7QtPe2z/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "5d63a0e805f0a802",
+      "title": "Back-to-school sales have arrived: Where to find deals on pencils, backpacks, lunchboxes, laptops, and more",
+      "url": "https://mashable.com/life/back-to-school-deals-2026",
+      "datePublished": "2026-08-04T16:48:14.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "We're tracking the best back-to-school deals for 2026. In early August, save at Target, Best Buy, Adidas, Pottery Barn Teen, and more.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00np9dxKxGjt8BIxo2eow7t/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "e0c65125b9bab36e",
+      "title": "How to cancel your PlayStation Plus subscription",
+      "url": "https://www.engadget.com/2226200/how-to-cancel-playstaion-plus-subscription/",
+      "datePublished": "2026-08-04T16:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "If you're done giving Sony money every month, cancelling PlayStation Plus is easy.",
+      "author": "staff@engadget.com (Deven McClure)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-cancel-your-playstation-plus-subscription/l-intro-1784821823.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "516a52ef9df07f45",
+      "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
+      "url": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
+      "datePublished": "2026-08-04T16:27:59.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain-monitoring firms.",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "ffbb6163de12bcd6",
+      "title": "Make the upgrade to an 85-inch TCL QLED TV while its on sale for over $800 off",
+      "url": "https://mashable.com/tech/aug-4-tcl-85-inch-qm7l-deal",
+      "datePublished": "2026-08-04T16:26:05.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The 85-inch TCL Class QM7L QLED TV is on sale at Amazon for $1,697.99, down from the list price of $2,499.99. That's a 32% discount.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00W7CQI4SMmtIE1ex8U646m/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "1b69231878f057ab",
+      "title": "Pringles just entered its high-fashion era — everything you need to know about this wild Blvck Paris collab",
+      "url": "https://mashable.com/entertainment/blvck-paris-pringles-collaboration-launch",
+      "datePublished": "2026-08-04T16:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Pringles is getting a limited-edition, all-black fashion makeover courtesy of Blvck Paris, including a collectible can display and Pringles-branded hoodies and apparel. It launches Aug. 6 at Blvck online, priced $35 to $275.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/010ySvpkpKhD7lVx7mNTPcS/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "fec47c684bdcbc8b",
+      "title": "Apple claims that even more ex-employees may have given trade secrets to OpenAI",
+      "url": "https://www.engadget.com/2230042/apple-claims-that-even-more-ex-employees-may-have-given-trade-secrets-to-openai/",
+      "datePublished": "2026-08-04T15:57:41.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple is requesting expedited discovery in an ongoing lawsuit against OpenAI.",
+      "author": "staff@engadget.com (Lawrence Bonk)",
+      "imageUrl": "https://www.engadget.com/img/gallery/apple-claims-that-even-more-ex-employees-may-have-given-trade-secrets-to-openai/l-intro-1785858995.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "5e73e5fbb614ca69",
+      "title": "Using the Apple Upgrade program locks you into the big three mobile providers",
+      "url": "https://mashable.com/tech/apple-upgrade-program-verizon-t-mobile-att-providers",
+      "datePublished": "2026-08-04T15:54:57.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple's new leasing program has an odd rule: you need to use Verizon, AT&T, or T-Mobile.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00CtdjcZ33VpgAtjxgmBsoP/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "2fd75f11dd8ee5ed",
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "datePublished": "2026-08-04T15:50:06.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+      "author": "Sarah Perez",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "a9c0b52c3e5d11a4",
+      "title": "Texas halts new data centers as governor calls for audits",
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "datePublished": "2026-08-04T15:42:35.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+      "author": "Tim De Chant",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "5ad9e22428b6b1d3",
+      "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
+      "url": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
+      "datePublished": "2026-08-04T15:38:22.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "The acquisition, which was announced in June, brings Vibe.co into Walmart Connect, Walmart's connected TV advertising platform.",
+      "author": "Aisha Malik",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "5cabe4073a75d65b",
+      "title": "exFAT vs NTFS: What's the difference between these formats?",
+      "url": "https://www.engadget.com/2226196/exfat-vs-ntfs-whats-the-difference-between-formats/",
+      "datePublished": "2026-08-04T15:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "exFAT is best for cross-platform usage.",
+      "author": "staff@engadget.com (Gabriela Vătu)",
+      "imageUrl": "https://www.engadget.com/img/gallery/exfat-vs-ntfs-whats-the-difference-between-these-formats/l-intro-1784562959.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "fd1c9aaacd07c78e",
+      "title": "Zip around from point A to point B with $200 off the Segway SuperScooter GT3",
+      "url": "https://mashable.com/life/aug-4-segway-superscooter-gt3-deal",
+      "datePublished": "2026-08-04T15:21:31.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of August 4, get $200 off the Segway SuperScooter GT3 at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03a1FztIofXSQ2mxdnEH0js/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "01610e42603b4c00",
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "datePublished": "2026-08-04T15:20:06.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+      "author": "Sean O'Kane, Russell Brandom",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "ed49a3d175830c49",
+      "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
+      "url": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
+      "datePublished": "2026-08-04T15:00:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Want to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host your own Side Event during “Founder Summit Week,” happening June 4-10!",
+      "author": "TechCrunch Events",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "728ad94786620aac",
+      "title": "2026 Lexus ES 500e first drive: A classy sedan with a slow charge",
+      "url": "https://www.engadget.com/2229886/2026-lexus-es-500e-first-drive/",
+      "datePublished": "2026-08-04T15:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Lexus' latest luxury sedan is priced right and drives great, but feels like it's built around outdated EV tech.",
+      "author": "staff@engadget.com (Tim Stevens)",
+      "imageUrl": "https://www.engadget.com/img/gallery/2026-lexus-es-500e-first-drive-a-classy-sedan-with-a-slow-charge/l-intro-1785853344.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "f0eb56119dfe750b",
+      "title": "Keep the HOA happy with the EcoVacs Goat 01000 robot lawn mower since its over $300 off",
+      "url": "https://mashable.com/life/aug-4-ecovacs-goat-0110-deal",
+      "datePublished": "2026-08-04T14:49:17.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The EcoVacs Goat 01000 robot lawn mower is on sale at Amazon for $664, down from the normal price of $999.99. That's a 34% discount.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/0467Y7CGmq082t5WpYn338L/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "c30a94cfab3a3b03",
+      "title": "OpenAI takes Apple lawsuit to court of public opinion, posts texts",
+      "url": "https://mashable.com/tech/openai-apple-lawsuit-court-public-opinion-texts",
+      "datePublished": "2026-08-04T14:40:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple's trade secrets lawsuit against OpenAI and former employees has spilled into public view, and OpenAI is bringing receipts.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02hG4OM0UM7vf66QNGy71oY/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "4ca3aef7b65b4658",
+      "title": "New Samsung TVs will support HDR10+ Advanced streaming on Prime Video starting this month",
+      "url": "https://www.engadget.com/2229903/new-samsung-tvs-will-support-hdr10-plus-advanced-streaming-on-prime-video-starting-this-month/",
+      "datePublished": "2026-08-04T14:36:01.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The main features of HDR10+ Advanced include Enhanced Overall Brightness and Intelligent Motion Smoothing.",
+      "author": "staff@engadget.com (Kris Holt)",
+      "imageUrl": "https://www.engadget.com/img/gallery/new-samsung-tvs-will-support-hdr10-advanced-streaming-on-prime-video-starting-this-month/l-intro-1785854077.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "43bdac4de8112957",
+      "title": "You have no reason not to watch Babylon 5 now that it's free on YouTube",
+      "url": "https://www.engadget.com/2229891/you-have-no-reason-not-to-watch-babylon-5-now-that-its-free-on-youtube/",
+      "datePublished": "2026-08-04T14:35:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Babylon 5 is being released, episode by episode, for free, on YouTube. You should watch it",
+      "author": "staff@engadget.com (Daniel Cooper)",
+      "imageUrl": "https://www.engadget.com/img/gallery/you-have-no-reason-not-to-watch-babylon-5-now-its-free-on-youtube/l-intro-1785853671.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "d8dbadbec5a24320",
+      "title": "How to connect your Roku Streaming Stick or TV to Wi-Fi without the remote",
+      "url": "https://www.engadget.com/2226194/how-to-connect-roku-to-wifi-without-remote/",
+      "datePublished": "2026-08-04T14:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "An internet connection is essential for your Roku to stream your favorite movies and shows. Let's get you back online.",
+      "author": "staff@engadget.com (Gabriela Vătu)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-connect-your-roku-streaming-stick-or-tv-to-wi-fi-without-the-remote/l-intro-1784643410.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "03746cd940e6f148",
+      "title": "Keep your pool sparkling clean with 50% off the AIPER Scuba X1",
+      "url": "https://mashable.com/tech/aug-4-aiper-scuba-x1-deal",
+      "datePublished": "2026-08-04T14:26:59.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of August 4, get 50% off the AIPER Scuba X1 pool robot at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06A6zfnnoRPuyXrUDjkQTXt/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "e0cd5f25f0df2fc9",
+      "title": "Marshall’s new Stockwell III speaker is officially live: Order the 40-hour Bluetooth speaker now",
+      "url": "https://mashable.com/tech/marshall-stockwell-iii-where-to-buy",
+      "datePublished": "2026-08-04T14:22:58.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Marshall's Stockwell III portable Bluetooth speaker has officially launched, priced at $249.99, with 40+ hours of playtime, 360-degree sound, and IP55 water resistance.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03MpEvj67bayXpJw7Y66Exq/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "fa6db324a9c3ee47",
+      "title": "Its National Chocolate Chip Cookie Day — score free cookies from DoubleTree, Insomnia Cookies, Crumbl, and more",
+      "url": "https://mashable.com/life/national-chocolate-chip-cookie-day-2026-free-deals",
+      "datePublished": "2026-08-04T14:21:29.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Celebrate National Chocolate Chip Cookie Day on Aug. 4 with free and discounted treats from DoubleTree by Hilton, Insomnia Cookies, Crumbl, Tate's Bake Shop, and more.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/004HvEvaoQwmOIHFvV8IN1w/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "88dfcd64b73b9ae7",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "datePublished": "2026-08-04T14:03:01.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+      "author": "Sarah Perez",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "f4122c0919895a9e",
+      "title": "You can now bug your WhatsApp group chats with an @all ping",
+      "url": "https://www.engadget.com/2229525/you-can-now-bug-your-whatsapp-group-chats-with-an-all-ping/",
+      "datePublished": "2026-08-04T14:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Surely nobody you know will overuse this...",
+      "author": "staff@engadget.com (Anna Washenko)",
+      "imageUrl": "https://www.engadget.com/img/gallery/you-can-now-bug-your-whatsapp-group-chats-with-an-all-ping/l-intro-1785791401.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "4bb3ff1b5a0255a1",
+      "title": "Hatch introduces new Sleep Clock, an alarm clock that tracks your sleep",
+      "url": "https://mashable.com/life/hatch-sleep-clock-launch-price-specs",
+      "datePublished": "2026-08-04T14:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hatch launched the Hatch Sleep Clock on Aug. 4. It's an alarm clock and sleep tracker that provides personalized sleep and wake-up routines.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02ZhaHI3siSzuM6DvTJhiq5/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "c5e2622ddecc7979",
+      "title": "Spotify now has over 300M subscribers",
+      "url": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
+      "datePublished": "2026-08-04T13:52:58.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Notably, the company saw its subscriber base swell by 9% in the second quarter despite raising prices in several regions this year.",
+      "author": "Ivan Mehta",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "82363433b5bf2a76",
+      "title": "India moves to give its instant payments network a business model",
+      "url": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
+      "datePublished": "2026-08-04T13:31:17.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments since 2020.",
+      "author": "Jagmeet Singh",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "e62be9ea586ddeca",
+      "title": "Never put your phone in the refrigerator — here's why",
+      "url": "https://www.engadget.com/2226193/dont-put-phone-in-refrigerator-heres-why/",
+      "datePublished": "2026-08-04T13:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Condensation plus electronics are a bad combo.",
+      "author": "staff@engadget.com (Deven McClure)",
+      "imageUrl": "https://www.engadget.com/img/gallery/never-put-your-phone-in-the-refrigerator-heres-why/l-intro-1784742675.jpg",
+      "source": "Engadget"
+    },
     {
       "id": "59d64c5a018be94f",
       "title": "How much is Spotify Premium in the U.S.?",
