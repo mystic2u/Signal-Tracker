@@ -1,6 +1,462 @@
 {
-  "generatedAt": "2026-08-08T04:20:16.044Z",
+  "generatedAt": "2026-08-08T11:18:18.743Z",
   "articles": [
+    {
+      "id": "8525bc88f1c94b6c",
+      "title": "X-Men Actor Says Marvel Never Told Him Why He Was Replaced In 'X-Men '97'",
+      "url": "https://www.polygon.com/x-men-97-cable-gambit-actor-replaced/",
+      "datePublished": "2026-08-08T11:00:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Chris Potter now plays Cable in ‘X-Men ‘97,’ but he originally played Gambit in the 1990s. In an interview, he says no one ever told him why.",
+      "author": "Brian VanHooker",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/vs-disney-x-mendisney-0-29.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "d4afbd79e46d3c65",
+      "title": "X is replacing revenue sharing with a new original content rewards program",
+      "url": "https://www.engadget.com/2232981/x-replacing-revenue-sharing-with-original-content-rewards-program/",
+      "datePublished": "2026-08-08T10:31:34.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "X is retiring its old rewards-sharing program after September 7.",
+      "author": "staff@engadget.com (Mariella Moon)",
+      "imageUrl": "https://www.engadget.com/img/gallery/x-is-replacing-revenue-sharing-with-a-new-original-content-rewards-program/l-intro-1786184989.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "3ee134a76a73c88d",
+      "title": "The Best Live-Action Spider-Man Movies: A Definitive Ranking of All 9 Films",
+      "url": "https://www.polygon.com/best-spider-man-movies/",
+      "datePublished": "2026-08-08T10:30:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "From Andrew Garfield's overlooked highs to Tom Holland's triumphant Brand New Day, here's how every live-action Spider-Man movie stacks up.",
+      "author": "Ryan Epps",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/feature-graphice-spider-man-live-action-films.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "c11a24439a9126a2",
+      "title": "Monica Bellucci Plays a Mother Who Yells and Is the “Victim of a Social Role” in Luca Guadagnino-Produced ‘Ketticè’",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/monica-bellucci-luca-guadagnino-film-kettice-locarno-2026-1236669217/",
+      "datePublished": "2026-08-08T10:21:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "At Locarno, the Italian icon lauded the two young stars and filmmaker Giovanni Tortorici for their work on his second feature and shared that her character has forgotten about \"her femininity.\"",
+      "author": "Georg Szalai",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "faaada03bc5729a6",
+      "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+      "url": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+      "datePublished": "2026-08-08T10:16:01.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html Comments URL: https://news.ycombinator.com/item?id=49220390 Points: 7 # Comments: 7",
+      "author": "Korwell",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "016670c164679998",
+      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+      "datePublished": "2026-08-08T10:07:06.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html Comments URL: https://news.ycombinator.com/item?id=49220350 Points: 36 # Comments: 19",
+      "author": "sbulaev",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "662d54f978f6231d",
+      "title": "US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+      "datePublished": "2026-08-08T10:04:25.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide Comments URL: https://news.ycombinator.com/item?id=49220339 Points: 15 # Comments: 3",
+      "author": "rbanffy",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "f6842eaf397afb24",
+      "title": "Wild New Steam Game Dares You To Break Every Rule — and Every Level",
+      "url": "https://www.polygon.com/echobreaker-steam-impressions/",
+      "datePublished": "2026-08-08T10:00:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Echobreaker is a futuristic indie game where you complete courses as fast as possible, but then find a way to beat your own time by breaking the rules",
+      "author": "Paulo Kawanishi",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/echobreaker_impressions_header.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "0a50644d3857b76c",
+      "title": "My Birthright",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/my-birthright",
+      "datePublished": "2026-08-08T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "When you immigrate, certain bands of cultural experience go dark. Is that why I can’t stop writing about where I’m from?",
+      "author": "Karan Mahajan",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "2b388862f978afe5",
+      "title": "Ariana Grande and the Disappointment of Diagnosis",
+      "url": "https://www.newyorker.com/culture/critics-notebook/ariana-grande-and-the-disappointment-of-diagnosis",
+      "datePublished": "2026-08-08T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The pop star’s appearance has prompted fans to speculate that she’s suffering from an eating disorder. How should we talk about famous women’s bodies?",
+      "author": "Lauren Michele Jackson",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "5cd4a4ede33f4df6",
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "datePublished": "2026-08-08T09:58:41.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/ Comments URL: https://news.ycombinator.com/item?id=49220313 Points: 18 # Comments: 0",
+      "author": "01-_-",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "7daa922fadb248eb",
+      "title": "There’s One Series I’ve Recommended Over and Over. It’s Proved a Hit With Everyone.",
+      "url": "https://slate.com/culture/2026/08/robert-jackson-bennett-books-a-trade-of-blood-ana-and-din-mysteries-tainted-cup-drop-of-corruption.html?via=rss",
+      "datePublished": "2026-08-08T09:50:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Robert Jackson Bennett’s Ana and Din Mysteries is sometimes pointed, often hair-raising, and very entertaining.",
+      "author": "Laura Miller",
+      "imageUrl": "",
+      "source": "Slate (Culture)"
+    },
+    {
+      "id": "a0a8e6cb6befed5a",
+      "title": "No, Brian Eno Is Not Behind the Film Soundtrack for ‘At Night.’ Experimental Musician Elvin Brandhi Is.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/at-night-film-soundrack-elvin-brandhi-not-brian-eno-locarno-1236666314/",
+      "datePublished": "2026-08-08T09:40:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Locarno-premiering film by Beatrice Gibson is her first feature soundtrack, and she shares insights into its collaborative creation, whether she may return for more film work and her upcoming album.",
+      "author": "Georg Szalai",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "29ce71ad4deb281c",
+      "title": "Crocs Finally Addresses the Elephant (Clog) in the Room",
+      "url": "https://www.highsnobiety.com/p/crocs-roy-elephant-clog/",
+      "datePublished": "2026-08-08T09:34:02.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "Crocs' plucked its edgy gray clog straight from the futuristic plains of sub-Saharan Africa.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "d2d80a398115189a",
+      "title": "Satyajit Ray’s ‘Goopy Gyne Bagha Byne’ Making to be Chronicled in Srijit Mukherji’s ‘Maharaja Tomare Selam’",
+      "url": "https://variety.com/2026/film/news/satyajit-ray-goopy-gyne-bagha-byne-maharaja-tomare-selam-1236830536/",
+      "datePublished": "2026-08-08T09:13:41.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Indian National Award-winning filmmaker Srijit Mukherji is bringing to screen the making of Satyajit Ray’s “Goopy Gyne Bagha Byne,” one of Indian cinema’s most celebrated classics, in a new film titled “Maharaja Tomare Selam.” Jeetu Kamal, Ritwik Bhowmik, Rudranil Ghosh, Satakshi Nandy, Sairity Banerjee and Arijit Dutta star in the film, produced by Hoichoi Studios […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "eb95520331b1032d",
+      "title": "The Lenovo Legion Tab Gen 5 is a tablet to compete with MacBooks",
+      "url": "https://mashable.com/tech/lenovo-legion-tab-gen-5-review",
+      "datePublished": "2026-08-08T09:00:28.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The Lenovo Legion Tab Gen 5 is a tablet designed for gaming with exceptional processing and battery life.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/reviews/01VrKlv6UfZmUMqAFUyAmHG/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "c4e6cb5dcff8b82f",
+      "title": "The Most Divisive Time-Travel Movie of the Century Is Officially Back on Free Streaming",
+      "url": "https://www.polygon.com/time-machine-free-streaming-pluto-tv-doctor-who-fixed-points/",
+      "datePublished": "2026-08-08T09:00:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Now free on Pluto TV, The Time Machine remains one of the smartest and most emotionally ambitious time-travel movies of the 2000s.",
+      "author": "Corey Plante",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/the-time-machine-morlocks-1.jpeg",
+      "source": "Polygon"
+    },
+    {
+      "id": "30b5174a4029b6bb",
+      "title": "Google Pixel 11: Every rumor, leak, and teaser before Made By Google",
+      "url": "https://mashable.com/tech/google-pixel-11-rumors-news-leaks",
+      "datePublished": "2026-08-08T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Google is all set to announce some new flagship phones soon. Here's what you need to know ahead of time.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03t6De2BQIDQLOJfvsLDXmB/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "76b9199d2770fb45",
+      "title": "Pluto has a heart. Scientists discovered that its bleeding.",
+      "url": "https://mashable.com/science/pluto-heart-bleeds-liquid-nitrogen",
+      "datePublished": "2026-08-08T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "NASA's New Horizons mission reveals evidence that liquid nitrogen may be seeping out of Pluto’s giant heart-shaped glacier.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00KIl5psgs692y8uD6jJYLF/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "c7151e997dfef3a2",
+      "title": "How to get a free Apple iPhone 17 from T-Mobile this weekend",
+      "url": "https://mashable.com/tech/aug-8-free-apple-iphone-deal",
+      "datePublished": "2026-08-08T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to get free iPhone. Get the Apple iPhone 17 or iPhone 17 Pro for free when you sign up for T-Mobile.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07A5BNpwWS8FJlXzA6uAA1e/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "e9267bcb94e3c976",
+      "title": "AI companies keep destroying old books. Heres why.",
+      "url": "https://mashable.com/tech/anthropic-ai-book-training-destroy",
+      "datePublished": "2026-08-08T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Anthropic and other AI companies have been caught slicing up old books to create training data for their LLMs.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06DrqAW02WVwj1k9RtQYXPq/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "bdb11d8b8cc6f0db",
+      "title": "How to watch the 2026 European Athletics Championships online for free",
+      "url": "https://mashable.com/entertainment/european-athletics-championships-2026-live-stream-for-free",
+      "datePublished": "2026-08-08T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch European Athletics Championships for free. Live stream the 2026 European Athletics Championships for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02SmjnJpGg2tMtt0m3uwF6J/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "428d18ac3aa22f5b",
+      "title": "Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code",
+      "url": "https://mashable.com/tech/aug-8-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
+      "datePublished": "2026-08-08T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "ChatPlayground lets you compare multiple AI models, and lifetime access is only $60",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02sDGKNmxgvKGYUUIZhjSPA/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "91710d40fcefee8b",
+      "title": "Lock down your online privacy for life for just $2 a device with this VPN deal",
+      "url": "https://mashable.com/tech/aug-8-fastestvpn-pro-lifetime-subscription",
+      "datePublished": "2026-08-08T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Lock in a safer internet forever with this lifetime subscription to FastestVPN PRO.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03UR9wAGIgpofk4ujiWDpzA/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "c8d0d0cfed2512ba",
+      "title": "What is OpenAI Astra? Everything we know about the quantum math-solving model.",
+      "url": "https://mashable.com/tech/openai-astra-model-details-release-date",
+      "datePublished": "2026-08-08T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Astra is an unreleased new OpenAI model, which has already solved 10 major math problems that stood open for decades.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/0693UGVcvMGCH2BhI0VL89Y/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ca2448be75b49edc",
+      "title": "The latest iPhone 18 news, leaks, and rumors: Release date, price increases, and color options",
+      "url": "https://mashable.com/tech/apple-iphone-18-latest-rumors-release-date-leaks-july-2026",
+      "datePublished": "2026-08-08T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple is set to release the iPhone 18 lineup this fall, including a new iPhone 18 Pro Max. What should we expect from it?",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05fAeiICrQ2cWiUNllT8U0e/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "fa521516cadaf167",
+      "title": "‘I Rarely Wake Up Dreaming’ Review: An Affecting Trans Relationship Drama Brings Fresh Perspective to the War in Ukraine",
+      "url": "https://variety.com/2026/film/news/i-rarely-wake-up-dreaming-review-1236830181/",
+      "datePublished": "2026-08-08T07:19:07.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Russia’s 2022 invasion of Ukraine has prompted a wealth of urgent nonfiction filmmaking documenting the harsh realities of life under siege, but comparatively little dramatic storytelling — a space that the new German-Ukrainian production “I Rarely Wake Up Dreaming” occupies with bold formal imagination and a commitment to illuminating lives neglected in wider views of […]",
+      "author": "Guy Lodge",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "176c3e66e0bf3d12",
+      "title": "Hardware backdoors in some x86 CPUs",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "datePublished": "2026-08-08T07:04:51.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge Comments URL: https://news.ycombinator.com/item?id=49219508 Points: 123 # Comments: 39",
+      "author": "epestr",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "56337bec8f5292f0",
+      "title": "The Internet Can’t Be Normal About Weight",
+      "url": "https://slate.com/podcasts/icymi/2026/08/cheesecake-factorys-skinnylicious-menu-is-fatphobic?via=rss",
+      "datePublished": "2026-08-08T07:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Samyra calls out fatphobia, and the internet critiques her body. But nobody’s allowed to talk about Ariana Grande in her ‘Petal’ music video?",
+      "author": "Kate Lindsay",
+      "imageUrl": "",
+      "source": "Slate (Culture)"
+    },
+    {
+      "id": "cfe4c5ce9806fadb",
+      "title": "‘Asphalt Guerrilla’ Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/",
+      "datePublished": "2026-08-08T06:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Portuguese auteur Edgar Pêra discusses his new film, premiering at Locarno, shares how he is using AI to fight his concerns about it, and why he thinks about the rise of radicalism in the world as a symptom.",
+      "author": "Georg Szalai",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "fcfdd0db72c29abb",
+      "title": "Taylor Swift Song ‘August’ Removed From Trump TikTok Video",
+      "url": "https://variety.com/2026/music/news/taylor-swift-song-august-removed-trump-tiktok-video-1236830512/",
+      "datePublished": "2026-08-08T05:13:01.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A TikTok video that included Taylor Swift’s song “August” posted four days ago to the account for Donald Trump’s campaign has had the sound removed. The caption on the now Taylor-less “Team Trump” TikTok video reads, “I’m sure @Taylor Swift is going to be super excited we used her song! #taylorswift #maga #august.” The video […]",
+      "author": "Todd Spangler",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "36283a5352d674fc",
+      "title": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/forgotten-spaceman-locarno-film-about-afghanistan-cosmonaut-1236663264/",
+      "datePublished": "2026-08-08T05:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
+      "author": "Georg Szalai",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "ba4464835a7ac61e",
+      "title": "Taylor Swift Blocks Trump from Using Her Music on TikTok",
+      "url": "https://consequence.net/2026/08/taylor-swift-blocks-trump-using-music-tiktok/",
+      "datePublished": "2026-08-08T04:46:06.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "It marks the first time Swift has taken action against Trump on social media Taylor Swift Blocks Trump from Using Her Music on TikTok Alex Young",
+      "author": "Alex Young",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
     {
       "id": "1929bf4df3222bfd",
       "title": "Hurdle hints and answers for August 8, 2026",
@@ -98,6 +554,19 @@
       "author": "Lexi Carson",
       "imageUrl": "",
       "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "5e5cf977f9112271",
+      "title": "HBO sketch actor Barack Obama apparently has a very Larry David ketchup vendetta",
+      "url": "https://www.avclub.com/barack-obama-larry-david-ketchup-vendetta",
+      "datePublished": "2026-08-08T02:19:25.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "\"That's a child's condiment,\" the former leader of the free world reportedly opined during the filming of Life, Larry, And The Pursuit Of Unhappiness. \"Use mustard!\"",
+      "author": "William Hughes",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/07221328/obama-david-lead.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "ba24f32c75969572",
@@ -255,6 +724,19 @@
       "source": "Variety"
     },
     {
+      "id": "84e04dceab525380",
+      "title": "One Night Only director says test audiences made him purge \"so much nudity\" from his sex Purge movie",
+      "url": "https://www.avclub.com/one-night-director-cut-so-much-nudity-test-screenings",
+      "datePublished": "2026-08-08T00:50:10.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Director Will Gluck says audiences became uncomfortable when he showed sex and nudity in his new sex comedy—so he cut it.",
+      "author": "William Hughes",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/07200351/one-night-only-lead.jpg",
+      "source": "The A.V. Club"
+    },
+    {
       "id": "d095009075bc27cc",
       "title": "Stanley Tucci on Why His Emmy-Nominated ‘Tucci In Italy’ Is Moving to the United Kingdom Next Season",
       "url": "https://variety.com/2026/tv/awards/stanley-tucci-nat-geo-italy-moving-uk-next-season-why-1236830482/",
@@ -321,6 +803,19 @@
       "source": "The New Yorker"
     },
     {
+      "id": "f1e6d5e9723686ed",
+      "title": "Justice Smith and Charlie Gillespie are Heated Rivalry's new will-they-won't-they",
+      "url": "https://www.avclub.com/heated-rivalry-season-two-justice-smith-charlie-gillespie",
+      "datePublished": "2026-08-07T23:40:50.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Justice Smith and Charlie Gillespie have joined the cast of Heated Rivalry season two, where they will play the leads of the romantic subplot.",
+      "author": "Matt Schimkowitz",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/02/27222409/heated-rivalry-lead.jpg",
+      "source": "The A.V. Club"
+    },
+    {
       "id": "fe9f752f1ae2d9ff",
       "title": "Six Reasons Why You Should See Hilary Duff’s Tour Right Now",
       "url": "https://www.rollingstone.com/music/music-features/hilary-duff-2026-tour-reasons-why-1235601498/",
@@ -371,6 +866,19 @@
       "author": "Rebecca Rubin",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "5085abefecc6f702",
+      "title": "Netflix is making a guy live in a billboard to promote its latest low-grade thriller",
+      "url": "https://www.avclub.com/the-last-house-billboard-actor-netflix",
+      "datePublished": "2026-08-07T22:58:52.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The actor has been living inside the billboard for the streamer's The Last House since Thursday.",
+      "author": "William Hughes",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/07185350/last-house-billboard-lead.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "ce086fa5e10a3f5c",
@@ -450,6 +958,19 @@
       "author": "Nicole Fell",
       "imageUrl": "",
       "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "1e6b269a039242e3",
+      "title": "Writer-director Bella Thorne promises her Spring Breakers sequel is \"litty McTitties\"",
+      "url": "https://www.avclub.com/spring-breakers-2-bella-thorne",
+      "datePublished": "2026-08-07T22:19:37.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Spring Breakers 2 was announced last year as Spring Breakers: Salvation Mountain, with Matthew Bright directing.",
+      "author": "Matt Schimkowitz",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/07180858/spring-breakers-lead.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "35af574d4e30a7a5",
@@ -6194,507 +6715,6 @@
       "author": "boplicity",
       "imageUrl": "",
       "source": "Hacker News"
-    },
-    {
-      "id": "1a9746d89dd9c2f3",
-      "title": "Jon Bernthal’s 121 Minute 10/10 Neo-Western Thriller Is Officially a Streaming Hit",
-      "url": "https://www.polygon.com/jon-bernthal-sicario-hbo-max-movies-streaming-hit-august-2026/",
-      "datePublished": "2026-08-07T00:00:11.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Jon Bernthal's standout supporting performance is drawing viewers back to an acclaimed 2015 crime thriller.",
-      "author": "Sam Hill",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jon-bernthal-sicario.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "24615e3a289e8107",
-      "title": "Warner Bros. loads Jim Carrey into flying car for live-action Jetsons movie",
-      "url": "https://www.avclub.com/jim-carrey-wb-jetsons-movie-confirmation",
-      "datePublished": "2026-08-06T23:54:44.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Jim Carrey will play George Jetson in an upcoming live-action remake of The Jetsons cartoon series, per WB's shareholder letter.",
-      "author": "Matt Schimkowitz",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/06194451/jetsons-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "4a258dcafa12fc23",
-      "title": "Minnie Driver Is ‘Grateful to Be Alive’ After Car Crash",
-      "url": "http://www.vulture.com/article/minnie-driver-car-crash-france.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-06T23:42:53.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "She sprained her neck after her car got t-boned in France.",
-      "author": "Alejandra Gularte",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/86c/be6/dc78370b28d62fa9873da3749463b10add-minnie-driver.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "c97fa528f2cd7294",
-      "title": "Eli Roth Talks the Unrated Gamble of ‘Ice Cream Man’ and What He Hopes the Town Learns From ‘Obsession’",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/eli-roth-talks-the-unrated-gamble-of-ice-cream-man-1236666881/",
-      "datePublished": "2026-08-06T23:39:17.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "More than twenty years after co-writing a script everyone said was too subversive to be made, the filmmaker launches his genre-driven media company with that very movie (and no studio notes).",
-      "author": "Brian Davids",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "b039595a9755c6cb",
-      "title": "Grown Ups 3 cast list reveals Adam Sandler still likes all those guys he used to like",
-      "url": "https://www.avclub.com/grown-ups-3-cast-list-adam-sandler-kevin-james-rob-schneider",
-      "datePublished": "2026-08-06T23:31:45.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "It's been 13 years, but Sandler's contacts list still seems pretty much the same.",
-      "author": "William Hughes",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/06192639/grown-ups-3-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "e07598e64c682b01",
-      "title": "Creators Get Slammed for Taking OpenAI Luxury Trip, Company Welcomes “Healthy Debate”",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/openai-brand-trip-creators-backlash-wildflower-farms-1236666210/",
-      "datePublished": "2026-08-06T23:27:54.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Dubbed \"Summer Camp,\" the posh event took place at Auberge Collection's Wildflower Farms in New York. One creator called it \"the dreamiest weekend\" before deleting the clip once the backlash grew.",
-      "author": "Chris Gardner",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "e408d9a922701fe4",
-      "title": "‘Brady vs. Manning’: Documentary Film in the Works About NFL Rivalry (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/brady-vs-manning-documentary-nfl-gary-myers-1236665674/",
-      "datePublished": "2026-08-06T23:27:10.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Adapting Gary Myers' best-selling book, the project will examine Tom Brady and Peyton Manning's memorable match-ups that captivated football fans for years.",
-      "author": "Ryan Gajewski",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "b5713942a9623edb",
-      "title": "Peter Katsis, Manager For Jane’s Addiction, Smashing Pumpkins and Morrissey, Dies at 69",
-      "url": "https://www.hollywoodreporter.com/music/music-industry-news/peter-katsis-dead-music-manager-1236666371/",
-      "datePublished": "2026-08-06T23:26:25.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Katsis died of complications from congestive heart failure, a representative said.",
-      "author": "Ethan Millman",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "992c14285a00c071",
-      "title": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
-      "url": "https://variety.com/2026/digital/news/ai4-conference-fear-loathing-daily-variety-podcast-1236829536/",
-      "datePublished": "2026-08-06T23:18:35.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "On today’s episode of “Daily Variety” podcast, Variety’s Corbin Bolies reports from Las Vegas where he is covering the AI4 conference with a slew of top leaders and true believers. The excitement around generative AI is still as hot as the temperature in Sin City, but the polarizing effect of the technology is evident as […]",
-      "author": "Cynthia Littleton",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "e46d5fe9d3a0e5f8",
-      "title": "Sequel for Michael Jackson Biopic Targeting Late 2027 Release",
-      "url": "https://consequence.net/2026/08/michael-jackson-biopic-release-date/",
-      "datePublished": "2026-08-06T23:07:57.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Production on the follow-up film may begin as soon as the end of 2026. Sequel for Michael Jackson Biopic Targeting Late 2027 Release Travis Bland",
-      "author": "Travis Bland",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "accaee73efcb6b45",
-      "title": "One lucky orbiter caught the SpaceX rocket crash site on moon",
-      "url": "https://mashable.com/science/spacex-rocket-moon-crash-images",
-      "datePublished": "2026-08-06T23:03:54.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "A South Korean lunar orbiter, Danuri, captured the SpaceX Falcon 9 rocket crash into the moon, when others failed to get the shot.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02y2j4wVRlxAQuyTetqGMfy/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "0ed17258f3f83734",
-      "title": "Resident Evil Meets Papers Please in a Wild New Xbox Game Pass Offering",
-      "url": "https://www.polygon.com/quarantine-zone-steam-xbox-game-pass/",
-      "datePublished": "2026-08-06T23:00:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Quarantine Zone combines the zombie-apocalypse vibes of The Last of Us with bureaucratic drudgery",
-      "author": "Jen Glennon",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/quarantine-zone-rec.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "e413646311dbe779",
-      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
-      "url": "https://zenodo.org/records/21359923",
-      "datePublished": "2026-08-06T22:50:09.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Author here. Background, for anyone who hasn't followed this fight: IBM's iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship \"quantum computers are useful for chemistry now\" claims, and a published critique (arXiv:2501.07231) argues the quantum samples never beat classical selected-CI at matched cost. That argument is still live. Both sides have been arguing about energies. Neither m",
-      "author": "purestatelabs",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "4255172739ea8019",
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "datePublished": "2026-08-06T22:43:53.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-      "author": "Lucas Ropek",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "4b7f804efb3f9f33",
-      "title": "Google open-sources an AI model it says can help with earlier hurricane warnings",
-      "url": "https://www.engadget.com/2232141/google-open-source-ai-model-can-help-with-earlier-hurricane-warnings/",
-      "datePublished": "2026-08-06T22:40:33.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "WeatherNext can deliver a 15-day forecast predicting storms' track and intensity.",
-      "author": "staff@engadget.com (Anna Washenko)",
-      "imageUrl": "https://www.engadget.com/img/gallery/google-open-sources-an-ai-model-it-says-can-help-with-earlier-hurricane-warnings/l-intro-1786055950.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "8b423851710c0be5",
-      "title": "Why Is Everyone Convinced Tate McRae Is MAGA?",
-      "url": "https://www.rollingstone.com/music/music-news/why-everyone-is-convinced-tate-mcrae-is-maga-1235604671/",
-      "datePublished": "2026-08-06T22:36:56.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A country music collaboration and rumored relationship sparked criticism around the Canadian pop star's politics. Here's what she's said so far",
-      "author": "Larisha Paul",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "2b026411bf5ff329",
-      "title": "‘Michael 2’ Eyes Filming Start ‘Towards the End of this Year’ or Early 2027 as Lionsgate Teases Release Date",
-      "url": "https://variety.com/2026/film/news/michael-2-filming-start-release-date-1236829530/",
-      "datePublished": "2026-08-06T22:30:31.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Lionsgate is working on the sequel to “Michael” and hopes to start rolling the cameras soon on the second biopic about Michael Jackson. The studio hopes to begin production in late 2026 or early 2027, Lionsgate’s motion picture chief Adam Fogelson said on Thursday’s earnings call, with the hopes of releasing the final product at […]",
-      "author": "Rebecca Rubin",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "d1620828fc8d290b",
-      "title": "Giorgia Whigham Joins Kevin Bacon in Amazon MGM Horror Thriller ‘Summoner’ (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/giorgia-whigham-kevin-bacon-amazon-mgm-thriller-summoner-1236666370/",
-      "datePublished": "2026-08-06T22:27:26.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Jeremy Slater, the longtime genre writer behind 'Mortal Kombat II' and 'The Umbrella Academy,' is making his directorial debut with the feature.",
-      "author": "Borys Kit",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "a09896b1d5d88b29",
-      "title": "How Many of This Century’s Top 100 Films Have a “Nepo Baby Creative”? Your Guess Will Be Too Low",
-      "url": "https://www.hollywoodreporter.com/business/business-news/top-films-nepo-baby-creative-locarno-pro-stephen-follows-1236665694/",
-      "datePublished": "2026-08-06T22:25:59.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Kicking off Locarno Pro 2026, film industry data analyst Stephen Follows raised eyebrows with data points and hard truths in a presentation entitled “Fear, Lies, and the Illusion of Control.”",
-      "author": "Georg Szalai",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "4c76d0aaa4f54093",
-      "title": "A Post-Press-Tour Wedding Reception for Tomdaya",
-      "url": "http://www.vulture.com/article/tom-holland-zendaya-wedding-england.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-06T22:25:07.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The couple had a small reception in the U.K. over the weekend.",
-      "author": "Alejandra Gularte",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/35f/f23/01723a8420ef31bc280391bbf3a8926339-tom-zendaya.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "5da8193540f508a0",
-      "title": "After U.K. Approval of Paramount-WBD Deal, European Media Leaders Rally Behind David Ellison: ‘The Industry Will Be Stronger’",
-      "url": "https://variety.com/2026/film/global/uk-approval-paramount-wbd-european-leaders-david-ellison-1236829488/",
-      "datePublished": "2026-08-06T22:24:57.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The U.K.’s decision to clear Paramount Skydance’s $111 ⁠billion proposed acquisition of Warner Bros. Discovery has been broadly welcomed by European industry players. U.K. exhibitors, media executives and analysts have argued the deal reflects a wider shift in regulatory thinking as European broadcasters face mounting competitive pressure from global streaming giants. Following the European Commis",
-      "author": "Elskes",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "a317348331a6e78f",
-      "title": "How Ella Rubin Went From Being a Briefcase-Wielding 11-Year-Old to the Star of ’Sterling Point’",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/ella-rubin-sterling-point-profile-interview-1236657586/",
-      "datePublished": "2026-08-06T22:23:28.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The 24-year-old steps into her leading lady status in Megan Park’s new coming-of-age drama series.",
-      "author": "Nicole Fell",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "2e50272e6ac18b8b",
-      "title": "‘Michael’ Boosts Lionsgate Quarterly Results as Studio Narrows Loss to $29 Million",
-      "url": "https://variety.com/2026/film/news/lionsgate-q2-2026-michael-narrows-loss-1236829508/",
-      "datePublished": "2026-08-06T22:17:16.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Shamone! Record-breaking biopic “Michael” helped Lionsgate’s movie division turn in a profit of $105 million — its best-ever result for a June quarter. Lionsgate’s Motion Picture segment revenue of $587.3 million more than doubled from the prior-year quarter. The segment profit was up from a nominal $2.4 million in the year-ago period. The company said […]",
-      "author": "Todd Spangler",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "f6a828fb6ad8bfa0",
-      "title": "Joan Blackman, Elvis’ Love Interest in ‘Blue Hawaii’ and ‘Kid Galahad,’ Dies at 87",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/joan-blackman-dead-blue-hawaii-kid-galahad-elvis-presley-1236666409/",
-      "datePublished": "2026-08-06T22:15:40.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "She also appeared (separately) with Dean Martin and Jerry Lewis in ‘Career’ and ‘Visit to a Small Planet’ and on TV’s ‘Peyton Place.’",
-      "author": "Mike Barnes",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "bf0dd042433c9368",
-      "title": "Ro Khanna calls for the right to oppose data centers to be protected",
-      "url": "https://www.engadget.com/2232120/ro-khanna-calls-for-the-right-to-oppose-data-centers-to-be-protected/",
-      "datePublished": "2026-08-06T22:10:18.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The congressman thinks it's time for a \"Data Center Bill of Rights.\"",
-      "author": "staff@engadget.com (Ian Carlos Campbell)",
-      "imageUrl": "https://www.engadget.com/img/gallery/ro-khanna-calls-for-the-right-to-oppose-data-centers-to-be-protected/l-intro-1786054017.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "fac86981e3238718",
-      "title": "How to Watch the 2026 British MotoGP Race Online for Free",
-      "url": "https://www.rollingstone.com/product-recommendations/streaming/watch-british-motogp-race-online-free-us-livestream-2026-1235604230/",
-      "datePublished": "2026-08-06T22:07:40.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "MotoGP is at Silverstone this weekend. Here’s how to catch all the action live from the U.S.",
-      "author": "Oscar Hartzog",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "aa946d974442f827",
-      "title": "Rust August Force Wipe Brings New DLC and Major Update",
-      "url": "https://www.polygon.com/rust-august-force-wipe-update-shell/",
-      "datePublished": "2026-08-06T22:07:39.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Rust's August force wipe is looking promising with the launch of the Bar Games and Stone Sculpture DLC and new monument changes.",
-      "author": "Ashely Claudino",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pumping-rust.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "92e21e1a612a8ff2",
-      "title": "Listen to Madonna and Kylie Minogue’s “Love Sensation (Afterhours Mix)”",
-      "url": "https://pitchfork.com/story/madonna-kylie-minogue-love-sensation-afterhours-mix/",
-      "datePublished": "2026-08-06T22:06:19.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The duo debuted their rework of the Confessions II track at WorldPride Amsterdam last week",
-      "author": "Hattie Lindert",
-      "imageUrl": "",
-      "source": "Pitchfork"
-    },
-    {
-      "id": "7b105809b9b16f33",
-      "title": "Peter Katsis, Veteran Manager for Backstreet Boys, Korn, Jane’s Addiction and More, Dies at 69",
-      "url": "https://variety.com/2026/music/news/peter-katsis-dead-manager-backstreet-boys-korn-janes-addiction-1236829517/",
-      "datePublished": "2026-08-06T22:04:49.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Peter Katsis, a co-founder of the management companies the Firm and Prospect Park who over the course of a 35-year career managed an unusually wide wide variety of artists including Backstreet Boys, Korn, Limp Bizkit, Ice Cube, Jane’s Addiction Morrissey, Ministry and more, died Thursday due to complications from congestive heart failure, a rep confirms […]",
-      "author": "Jem Aswad",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "06c32b61659c1bcd",
-      "title": "I played Elden Ring wrong for two years",
-      "url": "https://www.polygon.com/video/i-played-elden-ring-wrong-for-two-years/",
-      "datePublished": "2026-08-06T22:03:07.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "I started Elden Ring on launch day in 2022. It was my first FromSoft game and turns out, I didn't know what I was getting into. Here's how I let a bunch of assumptions and anxieties drive me to play Elden Ring wrong and bad for two years and over 200 hours. No, I still haven't beaten it.",
-      "author": "Simone de Rochefort",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/maxresdefault-1.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "9fc28a8b63fc294c",
-      "title": "Marvel Tokon Fighting Souls Review-in-Progress: Beautiful But Busted",
-      "url": "https://www.polygon.com/marvel-tokon-fighting-souls-day-one-review-first-impressions/",
-      "datePublished": "2026-08-06T22:02:27.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Between its mixed central gameplay and massive PC port problems, Marvel Tokon: Fighting Souls needs some work.",
-      "author": "Elijah Gonzalez",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/marvel-tokon-hulk-1.png",
-      "source": "Polygon"
-    },
-    {
-      "id": "f4269f89350a1e4e",
-      "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands ",
-      "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-      "datePublished": "2026-08-06T22:00:00.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here’s what $12,500 buys you: Joining fellow exhibitors is the ",
-      "author": "TechCrunch Events",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "11bc2e90742e7b01",
-      "title": "Own Luminar Neo for $80 with this lifetime photo editing bundle",
-      "url": "https://mashable.com/tech/aug-6-the-award-winning-luminar-neo",
-      "datePublished": "2026-08-06T22:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get The Award-Winning Luminar Neo Lifetime Bundle for $79.99 and own AI-powered photo editing software, creative tools, and training with a one-time purchase.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05ShcqBxoyHonzqBCSyUAcU/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "888c14a3f849ee08",
-      "title": "‘KPop Demon Hunters’ Writers Land Drama ‘A Really Bad Person’ at FX",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/kpop-demon-hunters-writers-fx-drama-really-bad-person-1236666249/",
-      "datePublished": "2026-08-06T22:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Hannah McMechan and Danya Jimenez are developing the show with FX Productions and Legendary.",
-      "author": "Rick Porter",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "56a2170589588167",
-      "title": "Ryan Murphy Spills on All-Star Season of ‘American Horror Story,’ Talks Ariana Grande’s Exit and Is Seriously Considering Doing More ‘Glee’",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/american-horror-story-season-13-ariana-grande-ryan-murphy-1236666234/",
-      "datePublished": "2026-08-06T21:58:52.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Murphy talks about getting the 'AHS' gang back together, reveals he's already working on season 14 and that his next (untitled) project shoots December in Europe: \"I'm plotting out my next two years.\"",
-      "author": "Jackie Strause",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "3dd63b27abdd3e90",
-      "title": "Life finds a way, but Jurassic World Rebirth 2 has lost its director",
-      "url": "https://www.avclub.com/director-gareth-edwards-exits-jurassic-world-rebirth-sequel",
-      "datePublished": "2026-08-06T21:58:47.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Gareth Edwards, who directed the blockbuster Jurassic World Rebirth, has exited production of the sequel over \"creative differences.\"",
-      "author": "Matt Schimkowitz",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2025/07/07105842/jurassic-world-rebirth-still-square.jpeg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "65b5e2c96180b9c1",
-      "title": "Peter Katsis, Smashing Pumpkins and Backstreet Boys Manager, Dead at 69",
-      "url": "https://www.rollingstone.com/music/music-news/peter-katsis-smashing-pumpkins-backstreet-boys-manager-dead-obituary-1235604814/",
-      "datePublished": "2026-08-06T21:57:24.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Katsis also worked with Jane's Addiction, Korn, Audioslave, Ice Cube, and more top artists",
-      "author": "Charisma Madarang",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "63010903997dc1fc",
-      "title": "Morgan Freeman Says You Can ‘Overlook’ a Mediocre Script ‘If They’re Going to Pay You Enough’ Money",
-      "url": "https://variety.com/2026/film/news/morgan-freeman-overlook-bad-script-for-money-1236829325/",
-      "datePublished": "2026-08-06T21:56:46.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Morgan Freeman recently told The New York Times that he’s okay signing on for a movie with a mediocre script as long as the pay is good enough. “If somebody offers you a job, it’s very nice if they’re offering you also an exciting script, but in reality, two or three things come into play,” […]",
-      "author": "Zack Sharf",
-      "imageUrl": "",
-      "source": "Variety"
     }
   ]
 }
